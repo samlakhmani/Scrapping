@@ -1,0 +1,2726 @@
+,Company Name,Job Title,Salary
+0,"GroundTruth
+3.3",Software Engineer,₹752K - ₹828K
+1,"GroundTruth
+3.3",Software Developer,₹423K - ₹462K
+2,"GroundTruth
+3.3",Manager,₹622K - ₹671K
+3,"GroundTruth
+3.3",Accounting Assistant,₹28K - ₹30K
+4,"GroundTruth
+3.3",Billing Specialist,₹23K - ₹25K
+5,"phData
+3.0",Devops Engineer,"₹395K - ₹2,069K"
+6,"phData
+3.0",Solutions Architect,"₹950K - ₹3,086K"
+7,"phData
+3.0",Software Engineer,₹695K - ₹741K
+8,"phData
+3.0",Data Engineer,₹583K - ₹639K
+9,"phData
+3.0",Data Engineer,₹57K - ₹62K
+10,"TransUnion
+4.0",Assistant Vice President,"₹ 27,09,710"
+11,"TransUnion
+4.0",Consultant,"₹1,916K - ₹2,782K"
+12,"TransUnion
+4.0",Data Analyst,₹14K - ₹31K
+13,"TransUnion
+4.0",Associate Engineer,₹876K - ₹983K
+14,"TransUnion
+4.0",Assistant Manager,"₹1,429K - ₹1,534K"
+15,"Buckman
+3.5",Intern,₹27K - ₹29K
+16,"Buckman
+3.5",IOT Engineer,₹773K - ₹832K
+17,"Accenture
+3.9",Software Engineer,"₹ 5,29,924"
+18,"Accenture
+3.9",Associate Software Engineer,"₹ 3,85,470"
+19,"Accenture
+3.9",Senior Software Engineer,"₹ 8,20,345"
+20,"Accenture
+3.9",Team Lead,"₹ 12,00,000"
+21,"Accenture
+3.9",Associate Manager,"₹ 18,48,774"
+22,"Dell Technologies
+4.1","Senior Advisor, Data Intelligence Engineer","₹2,044K - ₹2,213K"
+23,"Dell Technologies
+4.1",Software Engineer,"₹ 8,05,727"
+24,"Dell Technologies
+4.1",Senior Software Engineer,"₹ 15,71,358"
+25,"Dell Technologies
+4.1",Senior Analyst,"₹ 9,93,214"
+26,"Dell Technologies
+4.1",Principal Software Engineer,"₹ 23,46,589"
+27,"Quanticate
+4.0",Former Employee,₹291K - ₹313K
+28,"Quanticate
+4.0",Clinical Data Coordinator,₹408K - ₹448K
+29,"Quanticate
+4.0",Senior SAS Programmer,₹744K - ₹808K
+30,"Quanticate
+4.0",General Counsel/Associate Director,₹119K - ₹130K
+31,"Quanticate
+4.0",CDM Programmer,₹860K - ₹936K
+32,"PayPal
+3.6",Software Engineer,"₹ 12,37,149"
+33,"PayPal
+3.6",Software Engineer III,"₹ 21,51,802"
+34,"PayPal
+3.6",Software Engineer II,"₹ 16,13,973"
+35,"PayPal
+3.6",Senior Software Engineer,"₹ 18,00,000"
+36,"PayPal
+3.6",Software Engineer -2,"₹ 16,37,235"
+37,"Honeywell
+3.8",Data Scientist,"₹1,022K - ₹1,482K"
+38,"Honeywell
+3.8",Senior Engineer,"₹ 10,28,686"
+39,"Honeywell
+3.8",Tech Lead,"₹ 16,14,797"
+40,"Honeywell
+3.8",Senior Software Engineer,"₹ 10,53,776"
+41,"Honeywell
+3.8",Engineer,"₹ 6,68,415"
+42,"Amazon
+4.2",Data Scientist,"₹ 15,49,198"
+43,"Amazon
+4.2",Data Scientist II,"₹1,878K - ₹3,817K"
+44,"Amazon
+4.2",Senior Data Scientist,"₹2,877K - ₹3,154K"
+45,"Amazon
+4.2",Applied Data Scientist,"₹1,884K - ₹2,057K"
+46,"Amazon
+4.2",Applied Data Scientist,₹44K - ₹47K
+47,"PayPal
+3.6",Data Scientist,₹217K - ₹238K
+48,"PayPal
+3.6",Software Engineer,"₹ 12,37,149"
+49,"PayPal
+3.6",Software Engineer III,"₹ 21,51,802"
+50,"PayPal
+3.6",Software Engineer II,"₹ 16,13,973"
+51,"PayPal
+3.6",Senior Software Engineer,"₹ 18,00,000"
+52,"IBM
+3.9",Data Scientist,"₹ 11,80,264"
+53,"IBM
+3.9",Data Scientist,"₹ 49,096/mo"
+54,"IBM
+3.9",Senior Data Scientist,"₹ 30,53,418"
+55,"IBM
+3.9",Data Scientist/Software Engineer,₹29K - ₹107K
+56,"IBM
+3.9",Entry Level Data Scientist,₹267K - ₹286K
+57,"TheMathCompany
+4.2",Analyst,"₹ 6,03,794"
+58,"TheMathCompany
+4.2",Associate,"₹ 9,00,665"
+59,"TheMathCompany
+4.2",Partner,"₹1,936K - ₹2,360K"
+60,"TheMathCompany
+4.2",Associate,₹26K - ₹28K
+61,"TheMathCompany
+4.2",Analyst,₹18K - ₹19K
+62,"MongoDB
+4.6",Software Engineer,₹613K - ₹658K
+63,"MongoDB
+4.6",Software Engineer,₹10K - ₹11K
+64,"MongoDB
+4.6",Research Associate,₹586K - ₹638K
+65,"MongoDB
+4.6",Talent Acquisition Specialist,₹748K - ₹815K
+66,"MongoDB
+4.6",IP Support,₹53K - ₹58K
+67,"NICE Actimize
+3.9",Lead Data Scientist,"₹2,277K - ₹2,430K"
+68,"NICE Actimize
+3.9",Software Engineer,₹649K - ₹718K
+69,"NICE Actimize
+3.9",IPC,₹831K - ₹887K
+70,"NICE Actimize
+3.9",Tech Lead,"₹1,132K - ₹1,217K"
+71,"NICE Actimize
+3.9",QA Engineer,₹475K - ₹515K
+72,"TTEC
+3.4",Customer Service Representative,"₹ 24,171/mo"
+73,"TTEC
+3.4",Fraud Analyst,₹19K - ₹24K
+74,"TTEC
+3.4",Click To Chat Representative,₹24K - ₹26K
+75,"TTEC
+3.4",Fraud Prevention Analyst,₹27K - ₹29K
+76,"TTEC
+3.4",Chat Associate,₹24K - ₹26K
+77,"Cactus Communications
+3.7",Associate Editor,"₹ 5,32,176"
+78,"Cactus Communications
+3.7",Associate Editor,"₹ 38,688/mo"
+79,"Cactus Communications
+3.7",Managing Editor,"₹ 9,93,396"
+80,"Cactus Communications
+3.7",Managing Editor,"₹ 70,138/mo"
+81,"Cactus Communications
+3.7",Project Manager,"₹ 8,75,187"
+82,"IHS Markit
+3.5",Associate Data Scientist,"₹2,004K - ₹2,165K"
+83,"IHS Markit
+3.5",Assistant Vice President,"₹ 12,80,775"
+84,"IHS Markit
+3.5",Associate,"₹ 6,72,638"
+85,"IHS Markit
+3.5",Software Engineer,"₹ 7,91,836"
+86,"IHS Markit
+3.5",Vice President,"₹ 22,24,243"
+87,"Careator Technologies
+4.4",Test Engineer,₹16K - ₹18K
+88,"Shipsy
+3.9",Software Engineer,"₹1,059K - ₹1,270K"
+89,"Shipsy
+3.9",Software Engineer,₹25K - ₹27K
+90,"Shipsy
+3.9",Intern,₹29K - ₹31K
+91,"Shipsy
+3.9",IPC,"₹1,788K - ₹1,933K"
+92,"Shipsy
+3.9",Software Development Engineer,"₹959K - ₹1,043K"
+93,"Mindtree
+3.8",Senior Software Engineer,"₹ 6,46,619"
+94,"Mindtree
+3.8",Module Lead,"₹ 9,53,047"
+95,"Mindtree
+3.8",Software Engineer,"₹ 4,27,538"
+96,"Mindtree
+3.8",Senior Engineer,"₹ 6,47,611"
+97,"Mindtree
+3.8",Technical Lead,"₹ 13,78,671"
+98,"Amazon
+4.2",Data Engineer,"₹ 14,95,245"
+99,"Amazon
+4.2",Data Engineer,"₹ 23,074/mo"
+100,"Amazon
+4.2",Data Engineer II,"₹ 22,19,018"
+101,"Amazon
+4.2",Senior Data Engineer,"₹ 14,22,102"
+102,"Amazon
+4.2",Data Support Engineer,"₹ 5,16,433"
+103,"TraceLink, Inc.
+3.9",Software Engineer,"₹1,318K - ₹1,437K"
+104,"TraceLink, Inc.
+3.9",Senior Software Engineer,"₹2,229K - ₹2,417K"
+105,"TraceLink, Inc.
+3.9",Technical Support Engineer,"₹1,203K - ₹1,293K"
+106,"TraceLink, Inc.
+3.9",Senior QA Engineer,"₹1,915K - ₹2,069K"
+107,"TraceLink, Inc.
+3.9",Finance,₹689K - ₹744K
+108,"GroundTruth
+3.3",Software Engineer,₹752K - ₹828K
+109,"GroundTruth
+3.3",Software Developer,₹423K - ₹462K
+110,"GroundTruth
+3.3",Manager,₹622K - ₹671K
+111,"GroundTruth
+3.3",Accounting Assistant,₹28K - ₹30K
+112,"GroundTruth
+3.3",Billing Specialist,₹23K - ₹25K
+113,"Sony Corporation of America
+3.7",Software Engineer,"₹ 6,91,414"
+114,"Sony Corporation of America
+3.7",Senior Software Engineer,"₹ 9,84,504"
+115,"Sony Corporation of America
+3.7",Trainee Software Engineer,"₹ 5,97,302"
+116,"Sony Corporation of America
+3.7",Project Manager,"₹ 20,44,734"
+117,"Sony Corporation of America
+3.7",Technical Lead,"₹ 14,89,821"
+118,"Walt Disney Company
+3.9",Intrnet Worker,₹ 146.62/hr
+119,"Walt Disney Company
+3.9",Project Manager,"₹1,803K - ₹3,095K"
+120,"Walt Disney Company
+3.9",Product Executive,₹456K - ₹495K
+121,"Walt Disney Company
+3.9",Software Engineer,₹35K - ₹39K
+122,"Walt Disney Company
+3.9",Software Engineer,"₹1,443K - ₹1,539K"
+123,"Mercedes-Benz Research and Development India Private Limited
+3.5",Data Scientist,"₹1,020K - ₹1,111K"
+124,"Mercedes-Benz Research and Development India Private Limited
+3.5",Senior Engineer,"₹ 10,41,183"
+125,"Mercedes-Benz Research and Development India Private Limited
+3.5",Engineer,"₹ 8,63,164"
+126,"Mercedes-Benz Research and Development India Private Limited
+3.5",Product Design Engineer,"₹ 7,74,601"
+127,"Mercedes-Benz Research and Development India Private Limited
+3.5",Principal Consultant,"₹ 15,69,725"
+128,"Hewlett Packard Enterprise
+4.2",Software Engineer,"₹ 7,85,868"
+129,"Hewlett Packard Enterprise
+4.2",Technical Solutions Consultant,"₹ 6,77,428"
+130,"Hewlett Packard Enterprise
+4.2",Software Developer,"₹ 4,79,837"
+131,"Hewlett Packard Enterprise
+4.2",Senior Software Engineer,"₹ 12,49,955"
+132,"Hewlett Packard Enterprise
+4.2",Technology Consultant,"₹ 5,69,171"
+133,"Data Semantics
+4.2",Data Scientist,₹317K - ₹341K
+134,"Data Semantics
+4.2",Software Engineer,₹287K - ₹308K
+135,"Data Semantics
+4.2",Software Engineer,₹17K - ₹21K
+136,"Data Semantics
+4.2",Analyst,₹13K - ₹14K
+137,"Data Semantics
+4.2",Intern,₹5K - ₹6K
+138,"Processware Systems
+3.5",Software Engineer,"₹ 15,798/mo"
+139,"Processware Systems
+3.5",Software Engineer,"₹ 2,52,496"
+140,"Processware Systems
+3.5",Senior Software Engineer,₹127K - ₹138K
+141,"Processware Systems
+3.5",Team Lead,₹803K - ₹868K
+142,"Processware Systems
+3.5",Software Testing Engineer,₹165K - ₹180K
+143,"Bookmyshow
+3.6",Software Developer,"₹ 6,25,333"
+144,"Bookmyshow
+3.6",Senior Software Engineer,"₹ 8,36,914"
+145,"Bookmyshow
+3.6",Software Engineer,"₹ 6,27,696"
+146,"Bookmyshow
+3.6",Software Developer,"₹ 42,893/mo"
+147,"Bookmyshow
+3.6",Assistant Manager,"₹ 13,26,395"
+148,"Applied Materials
+3.7",Data Scientist,"₹1,424K - ₹1,531K"
+149,"Applied Materials
+3.7",Senior Software Engineer,"₹ 11,44,253"
+150,"Applied Materials
+3.7",Software Engineer,"₹ 7,53,340"
+151,"Applied Materials
+3.7",Technical Lead,"₹ 17,60,389"
+152,"Applied Materials
+3.7",Intern,"₹ 26,039/mo"
+153,"Rockwell Automation
+3.8",Project Engineer,"₹ 7,96,733"
+154,"Rockwell Automation
+3.8",Software Engineer,"₹ 8,00,485"
+155,"Rockwell Automation
+3.8",Technical Lead,"₹ 18,23,580"
+156,"Rockwell Automation
+3.8",Lead,₹89K - ₹103K
+157,"Rockwell Automation
+3.8",Sales Engineer,₹680K - ₹964K
+158,"ZettaMine
+3.9",SAP Consultant,₹14K - ₹16K
+159,"ZettaMine
+3.9",SAP Consultant,₹388K - ₹422K
+160,"ZettaMine
+3.9",Senior SAP Consultant,₹87K - ₹94K
+161,"ZettaMine
+3.9",Associate Functional Consultant - SAP,₹706K - ₹758K
+162,"Tomia
+3.5",Software Engineer,₹713K - ₹772K
+163,"Tomia
+3.5",Software Developer,₹720K - ₹781K
+164,"Tomia
+3.5",Full Stack Developer,"₹962K - ₹1,040K"
+165,"Daimler
+4.2",Manager,"₹ 12,82,158"
+166,"Daimler
+4.2",Manager,"₹ 29,796/mo"
+167,"Daimler
+4.2",Senior Manager,"₹1,632K - ₹2,327K"
+168,"Daimler
+4.2",Mechanical Engineer,₹40K - ₹63K
+169,"Daimler
+4.2",Assistant Manager,"₹1,057K - ₹1,137K"
+170,"inteliment
+3.8",Software Engineer,"₹ 26,913/mo"
+171,"inteliment
+3.8",Team Lead,"₹ 9,96,853"
+172,"inteliment
+3.8",Software Engineer,₹269K - ₹657K
+173,"inteliment
+3.8",Senior Software Engineer,₹432K - ₹737K
+174,"inteliment
+3.8",Associate Software Engineer,₹10K - ₹18K
+175,"Stark Inc.
+3.2",-1,-1
+176,Acies,-1,-1
+177,"Shell
+4.0",Data Scientist,"₹3,998K - ₹4,415K"
+178,"Shell
+4.0",Senior Data Scientist,"₹1,343K - ₹1,455K"
+179,"Shell
+4.0",Associate Data Scientist,₹58K - ₹62K
+180,"Shell
+4.0",Business Analyst,"₹ 18,57,531"
+181,"Shell
+4.0",Intern,"₹ 24,698/mo"
+182,Matelabs Innovations Pvt. Ltd.,-1,-1
+183,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+184,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+185,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+186,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+187,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+188,"Analytics Vidhya
+4.1",Data Scientist,₹13K - ₹14K
+189,"Analytics Vidhya
+4.1",Data Science,"₹ 20,252/mo"
+190,"Analytics Vidhya
+4.1",Intern,₹20K - ₹21K
+191,"Analytics Vidhya
+4.1",Data Engineer,"₹1,341K - ₹1,459K"
+192,"Analytics Vidhya
+4.1",Data Science,₹154K - ₹170K
+193,"dunnhumby
+3.6",Senior Analyst,"₹ 11,11,448"
+194,"dunnhumby
+3.6",Analyst,"₹ 10,45,378"
+195,"dunnhumby
+3.6",Analysis Manager,"₹ 22,64,748"
+196,"dunnhumby
+3.6",Associate Analyst,"₹ 8,70,606"
+197,"dunnhumby
+3.6",Lead Analyst,"₹ 18,67,122"
+198,"Lincode
+4.1",Software Engineer,₹21K - ₹23K
+199,"Lincode
+4.1",Software Engineer,₹563K - ₹612K
+200,"Lincode
+4.1",Intern,₹5K - ₹5K
+201,"Lincode
+4.1",Web Developer,₹4K - ₹5K
+202,"Lincode
+4.1",Embedded Engineer,₹30K - ₹32K
+203,"Sanofi
+3.7",Scientific Sales Executive,"₹ 3,92,021"
+204,"Sanofi
+3.7",Medical Sales Representative,"₹ 5,18,153"
+205,"Sanofi
+3.7",Assistant Manager,"₹ 8,35,241"
+206,"Sanofi
+3.7",Project Manager,"₹ 15,70,153"
+207,"Sanofi
+3.7",Product Manager,"₹ 11,78,314"
+208,"Meesho
+3.8",Business Development Manager,"₹ 39,243/mo"
+209,"Meesho
+3.8",Key Account Manager,"₹ 4,22,229"
+210,"Meesho
+3.8",Senior Software Engineer,"₹ 32,72,027"
+211,"Meesho
+3.8",Team Leader,₹35K - ₹56K
+212,"Meesho
+3.8",Business Development Manager,₹580K - ₹622K
+213,"SumTotal
+2.8",Software Design Engineer-II,"₹ 9,67,608"
+214,"SumTotal
+2.8",Senior Software Engineer,"₹ 11,12,563"
+215,"SumTotal
+2.8",Project Lead,"₹ 12,85,239"
+216,"SumTotal
+2.8",Software Design Engineer I,"₹ 5,40,060"
+217,"SumTotal
+2.8",Software Design Engineer,"₹ 7,43,137"
+218,"Applied Data Finance
+4.5",Data Scientist,"₹ 7,85,542"
+219,"Applied Data Finance
+4.5",Software Engineer,₹379K - ₹415K
+220,"Applied Data Finance
+4.5",Software Developer,₹740K - ₹797K
+221,"Applied Data Finance
+4.5",Assistant Manager,₹16K - ₹17K
+222,"Applied Data Finance
+4.5",Software Test Engineer,₹335K - ₹363K
+223,"Mastek Limited
+3.6",Software Engineer,"₹ 5,31,172"
+224,"Mastek Limited
+3.6",Senior Software Engineer,"₹ 7,67,939"
+225,"Mastek Limited
+3.6",Senior Software Engineer,"₹ 48,775/mo"
+226,"Mastek Limited
+3.6",Software Specialist,"₹ 11,93,183"
+227,"Mastek Limited
+3.6",Software Engineer,"₹ 34,335/mo"
+228,"Star
+3.7",Engineer,"₹2,159K - ₹2,363K"
+229,"Star
+3.7",Senior Engineering Manager,"₹2,248K - ₹2,420K"
+230,"Wipro Limited
+3.6",Data Scientist,"₹ 8,77,168"
+231,"Wipro Limited
+3.6",Data Scientist,₹23K - ₹24K
+232,"Wipro Limited
+3.6",Associate Data Scientist,"₹ 7,05,526"
+233,"Wipro Limited
+3.6",Senior Data Scientist,"₹1,620K - ₹1,959K"
+234,"Wipro Limited
+3.6",Junior Data Scientist,₹12K - ₹14K
+235,"Casepoint Pvt. Ltd
+3.5",Sr. Software Engineer,₹20K - ₹22K
+236,"Casepoint Pvt. Ltd
+3.5",Junior Software Engineer,₹139K - ₹152K
+237,"Casepoint Pvt. Ltd
+3.5",Assistant Manager-PMO,₹177K - ₹188K
+238,"Casepoint Pvt. Ltd
+3.5",Freshers,₹11K - ₹12K
+239,"Alphonso
+4.1",Technologist,"₹ 30,18,970"
+240,"Alphonso
+4.1",Business Data Analyst,"₹144K - ₹1,547K"
+241,"Alphonso
+4.1",Senior Software Developer,₹239K - ₹262K
+242,"Magicbricks
+3.8",Account Manager,"₹ 5,26,413"
+243,"Magicbricks
+3.8",Account Manager,"₹ 38,736/mo"
+244,"Magicbricks
+3.8",Product Manager,"₹ 24,27,543"
+245,"Magicbricks
+3.8",AREA SALES MANAGER,"₹ 8,69,948"
+246,"Magicbricks
+3.8",Manager,"₹ 12,36,607"
+247,"newAmps Consulting
+3.7",Systems Administrator,₹323K - ₹348K
+248,"newAmps Consulting
+3.7",C E O,"₹1,961K - ₹2,090K"
+249,"newAmps Consulting
+3.7",Communications Tech.,₹381K - ₹409K
+250,"Icertis
+4.2",Software Analyst,"₹ 7,02,394"
+251,"Icertis
+4.2",Software Analyst,"₹ 38,423/mo"
+252,"Icertis
+4.2",Intern,"₹ 14,729/mo"
+253,"Icertis
+4.2",Director,"₹ 45,28,456"
+254,"Icertis
+4.2",Functional Consultant,"₹ 9,87,915"
+255,"Icertis
+4.2",-1,-1
+256,"Procter & Gamble
+4.1",Associate Manager - Analytics And Insights,"₹2,181K - ₹2,377K"
+257,"Procter & Gamble
+4.1",Associate Manager,"₹ 17,93,771"
+258,"Procter & Gamble
+4.1",Project Manager,"₹ 31,09,763"
+259,"Procter & Gamble
+4.1",Product Supply Associate Manager,"₹ 21,34,524"
+260,"Procter & Gamble
+4.1",Key Account Manager,"₹ 19,69,062"
+261,KUKbit Software Lab,-1,-1
+262,"BDB
+3.0",-1,-1
+263,"Algoscale
+3.7",Data Scientist,₹34K - ₹37K
+264,"Algoscale
+3.7",Software Engineer,₹425K - ₹662K
+265,"Algoscale
+3.7",Software Developer,₹24K - ₹30K
+266,"Algoscale
+3.7",Software Engineer,₹28K - ₹30K
+267,"Algoscale
+3.7",Software Developer,₹367K - ₹396K
+268,"FinAcPlus
+4.4",-1,-1
+269,"Sulekha
+4.4",Product Manager,"₹ 14,78,059"
+270,"Sulekha
+4.4",Content Writer,"₹ 3,14,556"
+271,"Sulekha
+4.4",Senior Software Engineer,"₹ 13,03,594"
+272,"Sulekha
+4.4",Team Leader,₹40K - ₹43K
+273,"Sulekha
+4.4",Executive,₹14K - ₹16K
+274,ETAIOTA Systems,-1,-1
+275,"Kïdo
+5.0",-1,-1
+276,"Genpact
+3.6",Assistant Manager,"₹ 7,62,305"
+277,"Genpact
+3.6",Business Analyst,"₹ 6,62,527"
+278,"Genpact
+3.6",Process Associate,"₹ 2,10,660"
+279,"Genpact
+3.6",Process Developer,"₹ 3,44,192"
+280,"Genpact
+3.6",Manager,"₹ 12,18,939"
+281,"MTW LABS
+4.0",Software Engineer,₹25K - ₹27K
+282,"MTW LABS
+4.0",Junior Software Engineer,₹290K - ₹314K
+283,"VMware
+4.3",Member Of Technical Staff,"₹ 14,62,663"
+284,"VMware
+4.3",Senior Member Of Technical Staff,"₹ 28,38,273"
+285,"VMware
+4.3",Technical Support Engineer,"₹ 9,33,517"
+286,"VMware
+4.3",Intern,"₹ 32,158/mo"
+287,"VMware
+4.3",Business Analyst,"₹ 8,94,100"
+288,"Procter & Gamble
+4.1",Associate Manager,"₹ 17,93,771"
+289,"Procter & Gamble
+4.1",Project Manager,"₹ 31,09,763"
+290,"Procter & Gamble
+4.1",Product Supply Associate Manager,"₹ 21,34,524"
+291,"Procter & Gamble
+4.1",Key Account Manager,"₹ 19,69,062"
+292,"Procter & Gamble
+4.1",Manager,"₹ 22,58,092"
+293,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+294,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+295,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+296,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+297,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+298,"Tata Insights and Quants
+4.0",Data Scientist,"₹1,894K - ₹2,047K"
+299,"Tata Insights and Quants
+4.0",Systems Engineer,"₹ 5,08,660"
+300,"Tata Insights and Quants
+4.0",Software Engineer,"₹ 4,65,134"
+301,"Tata Insights and Quants
+4.0",Manager,"₹ 9,97,928"
+302,"Tata Insights and Quants
+4.0",Mechanical Engineer,"₹ 24,669/mo"
+303,Right Steps Consultancy,-1,-1
+304,Shiras HR Advisory & Services,-1,-1
+305,"Solugenix Corp
+4.3",Research Analyst,₹250K - ₹283K
+306,"Solugenix Corp
+4.3",Software Engineer,₹461K - ₹504K
+307,"Solugenix Corp
+4.3",Assistant Manager,₹599K - ₹643K
+308,"Solugenix Corp
+4.3",Manager,"₹2,162K - ₹2,311K"
+309,"Solugenix Corp
+4.3",Manager,₹100K - ₹108K
+310,"Eyeota
+3.1",-1,-1
+311,"Sony/ATV Music Publishing
+3.5",-1,-1
+312,"UpTricks
+5.0",Human Resources Manager,₹26K - ₹28K
+313,"UpTricks
+5.0",PHP Web Developer,₹91K - ₹99K
+314,"Kline & Company
+2.9",Consultant,"₹ 9,68,878"
+315,"Kline & Company
+2.9",Researcher,"₹ 8,86,037"
+316,"Kline & Company
+2.9",Analyst,₹60K - ₹64K
+317,"Kline & Company
+2.9",Senior Consultant,"₹1,908K - ₹2,058K"
+318,"Kline & Company
+2.9",Project Lead,"₹2,191K - ₹2,385K"
+319,"MongoDB
+4.6",Software Engineer,₹613K - ₹658K
+320,"MongoDB
+4.6",Software Engineer,₹10K - ₹11K
+321,"MongoDB
+4.6",Research Associate,₹586K - ₹638K
+322,"MongoDB
+4.6",Talent Acquisition Specialist,₹748K - ₹815K
+323,"MongoDB
+4.6",IP Support,₹53K - ₹58K
+324,"Ank Aha
+3.9",Software Developer,₹10K - ₹11K
+325,"Ank Aha
+3.9",Consultant,₹10K - ₹11K
+326,"Ank Aha
+3.9",IPC,₹64K - ₹69K
+327,"Ank Aha
+3.9",Internship,₹21K - ₹22K
+328,"Aptus Health
+3.4",Data Scientist,₹619K - ₹682K
+329,"Aptus Health
+3.4",Data Scientist,₹34K - ₹37K
+330,"Aptus Health
+3.4",Senior Software Engineer,"₹730K - ₹1,195K"
+331,"Aptus Health
+3.4",Technical Team Lead,"₹1,336K - ₹2,564K"
+332,"Aptus Health
+3.4",Software Engineer,"₹1,048K - ₹1,122K"
+333,"JLL
+4.0",Data Analyst,₹24K - ₹26K
+334,"JLL
+4.0",Data Analyst,"₹1,973K - ₹2,170K"
+335,"JLL
+4.0",Senior Executive,"₹ 5,48,369"
+336,"JLL
+4.0",Assistant Manager,"₹ 9,05,546"
+337,"JLL
+4.0",Manager,"₹ 11,70,483"
+338,"AstraZeneca
+3.9",Consultant,"₹ 9,20,719"
+339,"AstraZeneca
+3.9",Software Engineer,"₹ 6,72,739"
+340,"AstraZeneca
+3.9",Senior Consultant,"₹ 11,50,367"
+341,"AstraZeneca
+3.9",Senior Software Engineer,"₹ 10,06,385"
+342,"AstraZeneca
+3.9",Engineer,"₹ 7,11,299"
+343,"Barclays
+3.9",Data Analyst,"₹ 8,36,994"
+344,"Barclays
+3.9",Data Analyst,₹16K - ₹17K
+345,"Barclays
+3.9",Senior Analyst - Instrument & Price Master Data Management,₹558K - ₹599K
+346,"Barclays
+3.9",Business Data Analyst,"₹1,258K - ₹1,358K"
+347,"Barclays
+3.9",Data Quality Analyst,"₹992K - ₹1,061K"
+348,"Tredence
+3.5",Data Scientist,₹877K - ₹948K
+349,"Tredence
+3.5",Business Analyst,"₹ 6,73,211"
+350,"Tredence
+3.5",Senior Business Analyst,"₹ 9,49,943"
+351,"Tredence
+3.5",Business Analyst,"₹ 47,331/mo"
+352,"Tredence
+3.5",Software Engineer,"₹ 6,99,746"
+353,"Evolent Health
+2.8",Data Analyst,"₹827K - ₹1,283K"
+354,"Evolent Health
+2.8",Manager,₹880K - ₹960K
+355,"Evolent Health
+2.8",Analyst,"₹1,434K - ₹1,560K"
+356,"Evolent Health
+2.8",Senior Analyst,₹489K - ₹532K
+357,"Evolent Health
+2.8",QA Engineer,₹678K - ₹728K
+358,"Hike
+4.3",Data Analyst,"₹1,171K - ₹2,112K"
+359,"Hike
+4.3",Data Analyst,₹41K - ₹44K
+360,"Hike
+4.3",Software Engineer,"₹ 12,80,775"
+361,"Hike
+4.3",Senior Software Engineer,"₹ 28,98,947"
+362,"Hike
+4.3",Software Development Engineer,"₹ 18,27,144"
+363,"EY
+3.8",Consultant,"₹ 10,38,699"
+364,"EY
+3.8",Senior Consultant,"₹ 14,66,987"
+365,"EY
+3.8",Analyst,"₹ 4,57,526"
+366,"EY
+3.8",Manager,"₹ 22,48,483"
+367,"EY
+3.8",Associate Consultant,"₹ 7,23,093"
+368,"Dunzo
+3.2",Software Engineer,"₹ 40,00,000"
+369,"Dunzo
+3.2",Operations Manager,"₹ 33,924/mo"
+370,"Dunzo
+3.2",Operations Manager,"₹378K - ₹4,054K"
+371,"Dunzo
+3.2",Operations Specialist,₹25K - ₹33K
+372,"Dunzo
+3.2",Senior Software Engineer,₹151K - ₹166K
+373,"Entytle
+4.6",Devops,₹701K - ₹761K
+374,"FE UK
+4.1",Data Analyst,"₹ 19,120/mo"
+375,"FE UK
+4.1",Data Analyst,"₹ 2,68,418"
+376,"FE UK
+4.1",Senior Data Analyst,₹35K - ₹38K
+377,"FE UK
+4.1",Systems Engineer,₹13K - ₹19K
+378,"FE UK
+4.1",Software Engineer,₹615K - ₹670K
+379,"Firminiq
+4.7",Construction Business Manager,"₹939K - ₹1,018K"
+380,"Firminiq
+4.7",Consulting Manager/Principal,₹710K - ₹769K
+381,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+382,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+383,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+384,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+385,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+386,CourseBricks,-1,-1
+387,CourseBricks,Software Engineer,"₹ 11,26,616"
+388,CourseBricks,Senior Software Engineer,"₹1,448K - ₹1,711K"
+389,CourseBricks,Data Engineer,₹836K - ₹974K
+390,CourseBricks,Senior Software Engineer,₹114K - ₹122K
+391,CourseBricks,Associate Software Engineer,"₹1,619K - ₹1,757K"
+392,"MongoDB
+4.6",Software Engineer,₹613K - ₹658K
+393,"MongoDB
+4.6",Software Engineer,₹10K - ₹11K
+394,"MongoDB
+4.6",Research Associate,₹586K - ₹638K
+395,"MongoDB
+4.6",Talent Acquisition Specialist,₹748K - ₹815K
+396,"MongoDB
+4.6",IP Support,₹53K - ₹58K
+397,"Unionsys Technologies
+3.6",Business Development Executive,₹15K - ₹17K
+398,"Bigtree Entertainment Pvt.Ltd.
+3.9",Assistant Manager,"₹ 7,95,878"
+399,"Bigtree Entertainment Pvt.Ltd.
+3.9",Software Engineer,"₹385K - ₹1,206K"
+400,"Bigtree Entertainment Pvt.Ltd.
+3.9",Software Engineer,₹33K - ₹105K
+401,"Bigtree Entertainment Pvt.Ltd.
+3.9",Software Developer,₹12K - ₹35K
+402,"Bigtree Entertainment Pvt.Ltd.
+3.9",Team Leader,₹497K - ₹642K
+403,"GenieTalk
+4.4",Intern,₹5K - ₹6K
+404,"GenieTalk
+4.4",Manager Finance And Accounts,₹689K - ₹746K
+405,"GenieTalk
+4.4",Data Science Trainee,₹5K - ₹6K
+406,"Talentica Software India
+3.8",Software Engineer,"₹ 11,03,870"
+407,"Talentica Software India
+3.8",Senior Software Engineer,"₹ 14,48,942"
+408,"Talentica Software India
+3.8",Software Developer,"₹ 12,29,090"
+409,"Talentica Software India
+3.8",Software Engineer,"₹ 65,079/mo"
+410,"Talentica Software India
+3.8",Software Development Engineer,"₹ 14,95,551"
+411,"MongoDB
+4.6",Software Engineer,₹613K - ₹658K
+412,"MongoDB
+4.6",Software Engineer,₹10K - ₹11K
+413,"MongoDB
+4.6",Research Associate,₹586K - ₹638K
+414,"MongoDB
+4.6",Talent Acquisition Specialist,₹748K - ₹815K
+415,"MongoDB
+4.6",IP Support,₹53K - ₹58K
+416,"Agnik
+4.8",-1,-1
+417,"Phenom People
+4.3",Product Development Engineer,"₹ 8,05,059"
+418,"Phenom People
+4.3",Software Engineer,"₹ 9,36,740"
+419,"Phenom People
+4.3",Product Analyst,"₹ 5,83,849"
+420,"Phenom People
+4.3",Senior Product Analyst,"₹ 14,49,523"
+421,"Phenom People
+4.3",Machine Learning Engineer,"₹643K - ₹1,896K"
+422,"TEQNirvana
+4.2",Senior Software Engineer,"₹987K - ₹1,060K"
+423,"TEQNirvana
+4.2",Senior Consultant,₹399K - ₹438K
+424,"TEQNirvana
+4.2",Recruiter,₹13K - ₹14K
+425,"TEQNirvana
+4.2",Video Editor,₹377K - ₹414K
+426,"Sequretek
+4.0",Consultant,₹10K - ₹14K
+427,"Sequretek
+4.0",Security Engineer,₹13K - ₹15K
+428,"Sequretek
+4.0",Software Developer,₹275K - ₹301K
+429,"Sequretek
+4.0",Project Manager,₹757K - ₹828K
+430,"Sequretek
+4.0",Associate Consultant,₹15K - ₹16K
+431,Matelabs Innovations Pvt. Ltd.,-1,-1
+432,"Anlage HRO Services
+4.2",Software Engineer,"₹ 2,78,382"
+433,"Anlage HRO Services
+4.2",IT Recruiter,"₹ 17,268/mo"
+434,"Anlage HRO Services
+4.2",IT Recruiter,₹175K - ₹489K
+435,"Anlage HRO Services
+4.2",Resource Executive,₹15K - ₹350K
+436,"Anlage HRO Services
+4.2",Technical Lead,₹101K - ₹110K
+437,"Cisco Systems
+4.3",Software Engineer,"₹ 11,60,614"
+438,"Cisco Systems
+4.3",Software Engineer II,"₹ 12,66,002"
+439,"Cisco Systems
+4.3",Senior Software Engineer,"₹ 15,69,801"
+440,"Cisco Systems
+4.3",Software Engineer III,"₹ 19,14,137"
+441,"Cisco Systems
+4.3",Software Engineer IV,"₹ 25,01,784"
+442,"Icertis
+4.2",Software Analyst,"₹ 7,02,394"
+443,"Icertis
+4.2",Software Analyst,"₹ 38,423/mo"
+444,"Icertis
+4.2",Intern,"₹ 14,729/mo"
+445,"Icertis
+4.2",Director,"₹ 45,28,456"
+446,"Icertis
+4.2",Functional Consultant,"₹ 9,87,915"
+447,"Priority Vendor
+4.0",Senior Software Engineer,"₹1,326K - ₹1,418K"
+448,"Priority Vendor
+4.0",Credit Analyst,₹508K - ₹551K
+449,"Priority Vendor
+4.0",IP Project Manager,₹21K - ₹22K
+450,"Priority Vendor
+4.0",IT/IS Systems/Network Administrator,₹15K - ₹16K
+451,"Aptagrim Consulting
+4.0",Data Scientist,₹10K - ₹10K
+452,"Aptagrim Consulting
+4.0",Graphic Designer,₹18K - ₹19K
+453,"Aptagrim Consulting
+4.0",Systems Developer/Python Developer,₹6K - ₹7K
+454,"Aptagrim Consulting
+4.0",3D And Graphic Designer,₹10K - ₹11K
+455,"Sybrant Technologies
+3.1",Senior Software Engineer,₹320K - ₹670K
+456,"Sybrant Technologies
+3.1",Software Test Engineer,₹129K - ₹584K
+457,"Sybrant Technologies
+3.1",Senior Software Engineer,₹28K - ₹31K
+458,"Sybrant Technologies
+3.1",Senior Software Developer,₹322K - ₹350K
+459,"Sybrant Technologies
+3.1",QA Engineer,₹20K - ₹21K
+460,"ZoomRx
+4.2",Associate,"₹ 5,95,066"
+461,"ZoomRx
+4.2",Associate Consultant,"₹ 10,48,661"
+462,"ZoomRx
+4.2",Business Associate,"₹ 7,24,471"
+463,"ZoomRx
+4.2",Business Analyst,"₹ 6,13,193"
+464,"ZoomRx
+4.2",Software Development Engineer,"₹ 5,86,795"
+465,"Northcorp Software Pvt. Ltd.
+4.8",Executive,₹17K - ₹19K
+466,"Northcorp Software Pvt. Ltd.
+4.8",Business Development Manager,₹23K - ₹25K
+467,"Northcorp Software Pvt. Ltd.
+4.8",Business Development Manager,₹478K - ₹517K
+468,"Northcorp Software Pvt. Ltd.
+4.8",Graduate Engineer Trainee,₹8K - ₹8K
+469,"Northcorp Software Pvt. Ltd.
+4.8",Business Development Executive,₹578K - ₹626K
+470,"Hindujatech
+3.2",Design Engineer,"₹ 4,36,713"
+471,"Hindujatech
+3.2",Project Manager,"₹ 20,16,822"
+472,"Hindujatech
+3.2",Engineer,"₹ 5,32,176"
+473,"Hindujatech
+3.2",Senior Lead,"₹ 16,83,305"
+474,"Hindujatech
+3.2",Senior Software Engineer,"₹ 7,20,665"
+475,CogniSure,-1,-1
+476,"Honeywell
+3.8",Data Engineer,₹373K - ₹811K
+477,"Honeywell
+3.8",Senior Engineer,"₹ 10,28,686"
+478,"Honeywell
+3.8",Tech Lead,"₹ 16,14,797"
+479,"Honeywell
+3.8",Senior Software Engineer,"₹ 10,53,776"
+480,"Honeywell
+3.8",Engineer,"₹ 6,68,415"
+481,"Miles
+2.3",-1,-1
+482,"XPO Logistics
+3.7",Data Scientist,"₹1,860K - ₹2,022K"
+483,"XPO Logistics
+3.7",Assistant Manager,₹699K - ₹757K
+484,"XPO Logistics
+3.7",Senior Associate,₹23K - ₹25K
+485,"XPO Logistics
+3.7",Design Engineer,"₹1,328K - ₹1,438K"
+486,"XPO Logistics
+3.7",Sales,₹324K - ₹353K
+487,"Profisor Services
+4.5",Associate,₹155K - ₹167K
+488,"Profisor Services
+4.5",Data Engineering Analyst,₹492K - ₹533K
+489,Exeliq Consulting,-1,-1
+490,"IBM
+3.9",Data Engineer,"₹ 5,30,241"
+491,"IBM
+3.9",Data Engineer,"₹ 20,276/mo"
+492,"IBM
+3.9",Data Scientist/Software Engineer,₹30K - ₹106K
+493,"IBM
+3.9",Associate Data Analytics Engineer,₹51K - ₹54K
+494,"IBM
+3.9",Data Analytics Engineer,"₹1,230K - ₹1,330K"
+495,"Franklin Templeton Investments
+3.8",Data Scientist,"₹1,078K - ₹1,163K"
+496,"Franklin Templeton Investments
+3.8",Assistant Manager,"₹ 11,85,498"
+497,"Franklin Templeton Investments
+3.8",Software Engineer,"₹ 11,70,916"
+498,"Franklin Templeton Investments
+3.8",Business Analyst,"₹ 6,17,376"
+499,"Franklin Templeton Investments
+3.8",Analyst,"₹ 3,73,557"
+500,"itForte
+5.0",-1,-1
+501,"Gauge Data Solutions
+3.1",Data Analyst,"₹ 14,89,821"
+502,"Gauge Data Solutions
+3.1",Trainee Data Analyst,₹24K - ₹26K
+503,"Gauge Data Solutions
+3.1",Java Developer,₹15K - ₹16K
+504,"Gauge Data Solutions
+3.1",Data Analyst,₹24K - ₹26K
+505,"Gauge Data Solutions
+3.1",Senior Data Analyst,"₹1,138K - ₹1,217K"
+506,"DataToBiz
+4.8",Intern,₹5K - ₹5K
+507,"Bharat Light & Power
+2.5",Data Scientist,₹518K - ₹836K
+508,"Bharat Light & Power
+2.5",Associate Data Scientist,"₹1,144K - ₹1,251K"
+509,"Bharat Light & Power
+2.5",Manager,"₹3,265K - ₹3,587K"
+510,"Bharat Light & Power
+2.5",Analyst,"₹1,285K - ₹1,386K"
+511,"Bharat Light & Power
+2.5",Data Analyst,₹773K - ₹839K
+512,"Cactus Communications
+3.7",Associate Editor,"₹ 5,32,176"
+513,"Cactus Communications
+3.7",Associate Editor,"₹ 38,688/mo"
+514,"Cactus Communications
+3.7",Managing Editor,"₹ 9,93,396"
+515,"Cactus Communications
+3.7",Managing Editor,"₹ 70,138/mo"
+516,"Cactus Communications
+3.7",Project Manager,"₹ 8,75,187"
+517,"iNVERTEDi IT Consultancy Pvt Ltd
+3.5",Software Engineer,₹20K - ₹22K
+518,"iNVERTEDi IT Consultancy Pvt Ltd
+3.5",Software Developer,₹391K - ₹416K
+519,"iNVERTEDi IT Consultancy Pvt Ltd
+3.5",Graphic Designer,₹22K - ₹24K
+520,iqm.com,Data Scientist,₹441K - ₹483K
+521,iqm.com,Sales Head,"₹1,261K - ₹1,386K"
+522,"NSEIT
+3.7",Associate Systems Analyst,"₹ 4,13,661"
+523,"NSEIT
+3.7",Systems Analyst,"₹ 8,86,036"
+524,"NSEIT
+3.7",Test Administrator,"₹ 15,718/mo"
+525,"NSEIT
+3.7",Assistant Manager,"₹ 9,87,666"
+526,"NSEIT
+3.7",Systems Analyst,"₹ 44,469/mo"
+527,"Happy Marketer
+4.4",Senior Consultant,₹50K - ₹54K
+528,"Happy Marketer
+4.4",Digital Marketing Consultant,"₹1,700K - ₹1,842K"
+529,"Micro Focus
+3.2",Software Engineer,"₹ 8,86,789"
+530,"Micro Focus
+3.2",Senior Software Engineer,"₹ 10,74,037"
+531,"Micro Focus
+3.2",Associate Software Engineer,"₹ 8,03,666"
+532,"Micro Focus
+3.2",Member Of Technical Staff,"₹ 13,99,491"
+533,"Micro Focus
+3.2",Technology Consultant,"₹ 8,26,185"
+534,"BreathX Technologies Inc, ( Canary Health Technologies)",-1,-1
+535,"Springboard
+4.5",Software Developer,₹16K - ₹25K
+536,"Springboard
+4.5",Software Engineer,"₹1,501K - ₹1,637K"
+537,"Springboard
+4.5",Software Developer,"₹1,622K - ₹1,744K"
+538,"Springboard
+4.5",UI Developer,"₹1,343K - ₹1,447K"
+539,"Springboard
+4.5",Front End Developer,"₹1,129K - ₹1,240K"
+540,"Miles
+3.9",Software Engineer,₹17K - ₹18K
+541,"Miles
+3.9",Business Analyst,₹595K - ₹643K
+542,"Miles
+3.9",Senior Consultant,"₹1,672K - ₹1,812K"
+543,"Miles
+3.9",Engineer,₹40K - ₹43K
+544,"Miles
+3.9",Test Engineer,₹259K - ₹278K
+545,"Zauba Corp
+3.8",Software Engineer,"₹960K - ₹1,040K"
+546,"Zauba Corp
+3.8",Internship,₹23K - ₹25K
+547,"Zauba Corp
+3.8",SDE1,"₹984K - ₹1,073K"
+548,"Zauba Corp
+3.8",Data Engineer,₹560K - ₹610K
+549,"Zauba Corp
+3.8",Data Science,₹21K - ₹23K
+550,Germane Analytics Pvt Ltd,-1,-1
+551,GridEdge Technologies,-1,-1
+552,"Talentica
+3.8",Software Engineer,"₹ 11,03,870"
+553,"Talentica
+3.8",Senior Software Engineer,"₹ 14,48,942"
+554,"Talentica
+3.8",Software Developer,"₹ 12,29,090"
+555,"Talentica
+3.8",Software Engineer,"₹ 65,079/mo"
+556,"Talentica
+3.8",Software Development Engineer,"₹ 14,95,551"
+557,"A2IT
+5.0",Software Testing Fresher,₹272K - ₹293K
+558,Cove Venture,-1,-1
+559,"NetObjex
+4.5",Software Engineer,₹368K - ₹405K
+560,"NetObjex
+4.5",Institutional Sales Supervisor,₹42K - ₹45K
+561,"NetObjex
+4.5",InStep,₹10K - ₹11K
+562,"NetObjex
+4.5",Director Of Business Development,₹163K - ₹176K
+563,"Cumulations Technologies
+4.6",Android Developer,₹356K - ₹385K
+564,"Cumulations Technologies
+4.6",Business Development,₹34K - ₹36K
+565,"Cumulations Technologies
+4.6",UI-UX Designer,₹484K - ₹525K
+566,"Cumulations Technologies
+4.6",IP Counsel,₹453K - ₹497K
+567,"Cumulations Technologies
+4.6",Mr,₹44K - ₹47K
+568,"Nitor Infotech
+3.3",Software Engineer,"₹ 4,59,994"
+569,"Nitor Infotech
+3.3",Senior Analyst,"₹ 7,82,987"
+570,"Nitor Infotech
+3.3",Senior Analyst,"₹ 37,434/mo"
+571,"Nitor Infotech
+3.3",Lead Engineer,"₹ 11,06,943"
+572,"Nitor Infotech
+3.3",Software Engineer,"₹ 18,069/mo"
+573,"Honeywell
+3.8",Data Analyst,"₹ 6,13,705"
+574,"Honeywell
+3.8",Data Analyst,₹22K - ₹24K
+575,"Honeywell
+3.8",Senior Data Analyst,"₹1,105K - ₹1,450K"
+576,"Honeywell
+3.8",Senior Engineer,"₹ 10,28,686"
+577,"Honeywell
+3.8",Tech Lead,"₹ 16,14,797"
+578,"loyalytics consulting
+4.2",Business Analyst,₹803K - ₹865K
+579,"loyalytics consulting
+4.2",Air Export Agent,₹14K - ₹15K
+580,"Qualcomm
+3.9",Engineer,"₹ 12,66,161"
+581,"Qualcomm
+3.9",Senior Engineer,"₹ 17,48,155"
+582,"Qualcomm
+3.9",Software Engineer,"₹ 12,78,640"
+583,"Qualcomm
+3.9",Associate Engineer,"₹ 10,22,707"
+584,"Qualcomm
+3.9",Senior Lead Engineer,"₹ 25,43,978"
+585,"AppZen, Inc.
+3.6",Associate,₹290K - ₹313K
+586,"AppZen, Inc.
+3.6",Data Analyst,₹21K - ₹23K
+587,"Seventh Contact Hiring Solutions
+5.0",-1,-1
+588,"Wipro Limited
+3.6",Project Engineer,"₹ 4,38,545"
+589,"Wipro Limited
+3.6",Senior Software Engineer,"₹ 7,22,577"
+590,"Wipro Limited
+3.6",Project Engineer,"₹ 28,627/mo"
+591,"Wipro Limited
+3.6",Software Engineer,"₹ 5,00,000"
+592,"Wipro Limited
+3.6",Senior Project Engineer,"₹ 6,52,664"
+593,ScaleIn,-1,-1
+594,"Simpl
+4.3",Intern,"₹ 15,479/mo"
+595,"Simpl
+4.3",Operations,"₹ 15,579/mo"
+596,"Simpl
+4.3",Software Engineer,"₹1,929K - ₹2,097K"
+597,"Simpl
+4.3",Internship,₹15K - ₹16K
+598,"Simpl
+4.3",Business Development Manager,"₹2,346K - ₹2,534K"
+599,"Quincus
+4.0",Data Analyst,₹386K - ₹415K
+600,ETAIOTA Systems,-1,-1
+601,"Pivotchain Solutions
+5.0",Assistant Vice President,₹778K - ₹847K
+602,"TCG Digital
+3.0",Data Scientist,"₹1,335K - ₹1,426K"
+603,"TCG Digital
+3.0",Software Developer,"₹ 18,319/mo"
+604,"TCG Digital
+3.0",Consultant,"₹ 12,66,591"
+605,"TCG Digital
+3.0",Senior Software Engineer,₹603K - ₹858K
+606,"TCG Digital
+3.0",Software Developer,"₹251K - ₹1,308K"
+607,"Thrillophilia
+4.5",Digital Marketing Associate,"₹ 20,133/mo"
+608,"Thrillophilia
+4.5",Content Writer,"₹ 20,043/mo"
+609,"Thrillophilia
+4.5",Sales Associate,"₹ 3,47,182"
+610,"Thrillophilia
+4.5",Internship,₹7K - ₹12K
+611,"Thrillophilia
+4.5",Business Development Executive,₹21K - ₹23K
+612,"Star India
+4.0",Intern,₹13K - ₹16K
+613,"Star India
+4.0",Associate,₹15K - ₹16K
+614,"Star India
+4.0",Senior Executive,₹534K - ₹578K
+615,"Star India
+4.0",Senior Sales Executive,₹682K - ₹740K
+616,"Star India
+4.0",Finance Executive,₹17K - ₹18K
+617,"Kimberly-Clark
+3.9",Manager,₹165K - ₹179K
+618,"Kimberly-Clark
+3.9",Associate,₹417K - ₹456K
+619,"Kimberly-Clark
+3.9",Management Trainee,₹30K - ₹32K
+620,"Kimberly-Clark
+3.9",Executive,₹12K - ₹13K
+621,"Kimberly-Clark
+3.9",Sales Manager,₹804K - ₹867K
+622,"PipeCandy
+4.6",Data Scientist,₹473K - ₹518K
+623,"PipeCandy
+4.6",Member Of Technical Staff,₹472K - ₹517K
+624,"PipeCandy
+4.6",ETL Developer,₹663K - ₹721K
+625,"PipeCandy
+4.6",Product Designer,"₹5,951K - ₹6,393K"
+626,"Mahajan Imaging
+4.0",Radiologist,₹213K - ₹232K
+627,"Dasceq
+2.0",-1,-1
+628,"Amazon
+4.2",Senior Product Manager,"₹ 40,63,150"
+629,"Amazon
+4.2",Senior Product Marketing Manager,"₹ 30,18,970"
+630,"Amazon
+4.2","Senior Manager, Product Management","₹6,091K - ₹6,667K"
+631,"Amazon
+4.2",Senior Product Manager,₹108K - ₹118K
+632,"Amazon
+4.2",Senior Technical Product Manager,"₹4,978K - ₹5,374K"
+633,"Amazon
+4.2",Business Analyst,"₹ 10,09,012"
+634,"Amazon
+4.2",Business Analyst,₹25K - ₹78K
+635,"Amazon
+4.2",Senior Business Analyst,"₹ 18,22,704"
+636,"Amazon
+4.2",Business Analyst II,"₹ 19,23,502"
+637,"Amazon
+4.2",Business Analyst I,"₹ 9,79,644"
+638,"PharmEasy
+3.9",Data Analyst,₹53K - ₹58K
+639,"PharmEasy
+3.9",Software Engineer,"₹ 14,95,551"
+640,"PharmEasy
+3.9",Customer Service Associate,"₹ 20,772/mo"
+641,"PharmEasy
+3.9",Manager,"₹950K - ₹1,854K"
+642,"PharmEasy
+3.9",Intern,₹20K - ₹42K
+643,"Numerator
+4.0",Team Lead,₹267K - ₹291K
+644,"Numerator
+4.0",Account Executive,₹29K - ₹31K
+645,"Numerator
+4.0",Sr. Software Engineer,₹566K - ₹617K
+646,"Numerator
+4.0",Senior Research Analyst,₹553K - ₹602K
+647,"Numerator
+4.0",Content Analyst,₹196K - ₹213K
+648,"Elsevier
+4.4",Project Manager,"₹ 7,25,280"
+649,"Elsevier
+4.4",Senior Software Engineer,"₹728K - ₹1,351K"
+650,"Elsevier
+4.4",Education Consultant,"₹1,188K - ₹1,596K"
+651,"Elsevier
+4.4",Manager,₹71K - ₹78K
+652,"Elsevier
+4.4",IPC,₹717K - ₹781K
+653,"Philips
+3.9",Senior Software Engineer,"₹ 9,96,013"
+654,"Philips
+3.9",Technical Specialist,"₹ 14,02,079"
+655,"Philips
+3.9",Software Engineer,"₹ 7,52,105"
+656,"Philips
+3.9",Intern,"₹ 23,271/mo"
+657,"Philips
+3.9",Senior Technical Specialist,"₹ 19,90,874"
+658,"Astegic
+4.1",Data Analyst,₹37K - ₹41K
+659,"Astegic
+4.1",Data Analyst,₹518K - ₹556K
+660,"Astegic
+4.1",Research Analyst,"₹ 15,483/mo"
+661,"Astegic
+4.1",IP Network Architect,₹15K - ₹17K
+662,"Astegic
+4.1",Software Engineer,₹453K - ₹484K
+663,"Baker Hughes
+3.5",Software Engineer,"₹ 11,21,656"
+664,"Baker Hughes
+3.5",Intern,"₹ 26,610/mo"
+665,"Baker Hughes
+3.5",Software Engineer Specialist,"₹ 8,60,281"
+666,"Baker Hughes
+3.5",Senior Software Engineer,"₹ 13,41,550"
+667,"Baker Hughes
+3.5",Lead Engineer,"₹ 14,81,873"
+668,"dunnhumby
+3.6",Senior Analyst,"₹ 11,11,448"
+669,"dunnhumby
+3.6",Analyst,"₹ 10,45,378"
+670,"dunnhumby
+3.6",Analysis Manager,"₹ 22,64,748"
+671,"dunnhumby
+3.6",Associate Analyst,"₹ 8,70,606"
+672,"dunnhumby
+3.6",Lead Analyst,"₹ 18,67,122"
+673,R3coder,-1,-1
+674,"Calsoft Labs
+3.2",Senior Software Engineer,"₹ 8,96,543"
+675,"Calsoft Labs
+3.2",Software Engineer,"₹ 5,59,242"
+676,"Calsoft Labs
+3.2",Technical Lead,"₹ 20,98,076"
+677,"Calsoft Labs
+3.2",Module Lead,"₹ 12,18,601"
+678,"Calsoft Labs
+3.2",Software Engineer,"₹ 22,296/mo"
+679,"Redian Software
+3.9",SEO Analyst,₹16K - ₹18K
+680,"Redian Software
+3.9",Web Developer,₹10K - ₹11K
+681,"Redian Software
+3.9",Graphic Designer,₹22K - ₹23K
+682,"Redian Software
+3.9",Senior Developer,₹684K - ₹735K
+683,"Redian Software
+3.9",BDM,₹35K - ₹38K
+684,"Genpact
+3.6",Assistant Manager,"₹ 7,62,305"
+685,"Genpact
+3.6",Business Analyst,"₹ 6,62,527"
+686,"Genpact
+3.6",Process Associate,"₹ 2,10,660"
+687,"Genpact
+3.6",Process Developer,"₹ 3,44,192"
+688,"Genpact
+3.6",Manager,"₹ 12,18,939"
+689,"Standard Chartered
+3.7",Data Scientist,"₹1,356K - ₹1,446K"
+690,"Standard Chartered
+3.7",Data Scientist Analytics,"₹979K - ₹1,050K"
+691,"Standard Chartered
+3.7",Business Development Manager,"₹ 5,30,241"
+692,"Standard Chartered
+3.7",Relationship Manager,"₹ 7,34,195"
+693,"Standard Chartered
+3.7",Assistant Manager,"₹ 8,43,844"
+694,Imurgence,-1,-1
+695,"Infinium Solutionz
+4.0",Senior Software Engineer,₹55K - ₹59K
+696,"Infinium Solutionz
+4.0",Software Developer,₹22K - ₹24K
+697,"Infinium Solutionz
+4.0",Software Developer,₹484K - ₹526K
+698,"Infinium Solutionz
+4.0",Business Analyst,₹33K - ₹35K
+699,"Infinium Solutionz
+4.0",Business Analyst,₹377K - ₹411K
+700,"Indecomm Global Services India Private Limited
+3.1",Data Analyst/Scientist,"₹1,329K - ₹1,426K"
+701,"Indecomm Global Services India Private Limited
+3.1",Senior Software Engineer,"₹ 10,37,170"
+702,"Indecomm Global Services India Private Limited
+3.1",Technical Lead,"₹ 17,16,239"
+703,"Indecomm Global Services India Private Limited
+3.1",Software Engineer,"₹ 7,90,332"
+704,"Indecomm Global Services India Private Limited
+3.1",Senior Consultant,"₹ 11,11,756"
+705,SkillBit,-1,-1
+706,"Angel broking
+3.0",Data Scientist,₹19K - ₹21K
+707,"Angel broking
+3.0",Equity Dealer,"₹ 1,78,164"
+708,"Angel broking
+3.0",Relationship Manager,"₹ 16,865/mo"
+709,"Angel broking
+3.0",Equity Dealer,"₹ 14,898/mo"
+710,"Angel broking
+3.0",Assistant Manager,"₹ 3,27,558"
+711,"Han Digital Solution
+3.6",Consultant,"₹ 3,76,786"
+712,"Han Digital Solution
+3.6",Senior Recruiter,"₹ 1,77,628/mo"
+713,"Han Digital Solution
+3.6",Engagement Lead,₹630K - ₹967K
+714,"Han Digital Solution
+3.6",Senior Consultant,₹63K - ₹68K
+715,"Han Digital Solution
+3.6",Senior Consultant,₹415K - ₹451K
+716,"Philips
+3.9",Senior Software Engineer,"₹ 9,96,013"
+717,"Philips
+3.9",Technical Specialist,"₹ 14,02,079"
+718,"Philips
+3.9",Software Engineer,"₹ 7,52,105"
+719,"Philips
+3.9",Intern,"₹ 23,271/mo"
+720,"Philips
+3.9",Senior Technical Specialist,"₹ 19,90,874"
+721,"Tika Data Services Private Limited
+4.5",Intern,₹5K - ₹5K
+722,"Tika Data Services Private Limited
+4.5",Backend Developer,₹61K - ₹65K
+723,"Tika Data Services Private Limited
+4.5",Data Annotater,₹8K - ₹9K
+724,TechCiti Software Consulting Pvt Ltd,-1,-1
+725,"Healtheoz India
+5.0",-1,-1
+726,"Cubic Web Solutions
+3.9",Software Developer,₹28K - ₹30K
+727,"Innominds Software
+3.0",Data Scientist,"₹1,200K - ₹1,291K"
+728,"Innominds Software
+3.0",Principal Data Scientist,"₹2,072K - ₹2,252K"
+729,"Innominds Software
+3.0",Software Engineer,"₹ 7,68,465"
+730,"Innominds Software
+3.0",Senior Software Engineer,"₹ 11,16,611"
+731,"Innominds Software
+3.0",UI Developer,"₹ 5,46,197"
+732,"Innominds Software
+3.0",Senior Software Engineer,"₹ 16,55,858"
+733,"Innominds Software
+3.0",Intern,"₹ 28,190/mo"
+734,"Innominds Software
+3.0",Software Development,"₹ 24,830/mo"
+735,"Innominds Software
+3.0",Software Engineer,"₹115K - ₹1,266K"
+736,"Innominds Software
+3.0",Software Developer,"₹1,244K - ₹1,624K"
+737,"Danske IT and Support Services
+2.6",Software Engineer,"₹ 8,52,726"
+738,"Danske IT and Support Services
+2.6",Senior Software Engineer,"₹ 11,00,000"
+739,"Danske IT and Support Services
+2.6",Associate Software Engineer,"₹ 4,53,203"
+740,"Danske IT and Support Services
+2.6",Business Analyst,"₹ 10,98,062"
+741,"Danske IT and Support Services
+2.6",Senior Business Analyst,"₹ 13,00,875"
+742,"Infiniticube Services Pvt Ltd
+4.5",InStep,₹15K - ₹30K
+743,"Infiniticube Services Pvt Ltd
+4.5",SEO Executive,₹17K - ₹19K
+744,"Infiniticube Services Pvt Ltd
+4.5",Intranet Content Manager,₹614K - ₹664K
+745,"Infiniticube Services Pvt Ltd
+4.5",Investor Relations Associate,₹25K - ₹28K
+746,"Boston Consulting Group
+4.0",Senior Associate,"₹ 31,61,328"
+747,"Boston Consulting Group
+4.0",Consultant,"₹ 42,21,971"
+748,"Boston Consulting Group
+4.0",Associate,"₹ 17,82,723"
+749,"Boston Consulting Group
+4.0",Senior Analyst,"₹ 18,51,635"
+750,"Boston Consulting Group
+4.0",Senior Knowledge Analyst,"₹ 16,65,008"
+751,Sybrant Data,-1,-1
+752,"Unitforce Technologies Consulting Pvt Ltd
+3.5",Software Engineer,₹402K - ₹441K
+753,"Unitforce Technologies Consulting Pvt Ltd
+3.5",IPC,₹833K - ₹895K
+754,"Unitforce Technologies Consulting Pvt Ltd
+3.5",Construction Quality Control Manager,₹396K - ₹423K
+755,"Unitforce Technologies Consulting Pvt Ltd
+3.5",Unix Administrative,₹55K - ₹60K
+756,"Tata Communications
+3.8",Assistant Manager,"₹ 10,02,388"
+757,"Tata Communications
+3.8",Manager,"₹ 16,95,538"
+758,"Tata Communications
+3.8",Network Engineer,"₹ 3,79,409"
+759,"Tata Communications
+3.8",Customer Service Executive,"₹ 3,97,734"
+760,"Tata Communications
+3.8",Senior Manager,"₹ 24,56,592"
+761,"Spinnaker LLC
+3.4",Business Analyst,₹785K - ₹846K
+762,"Star TV Network
+3.8",Assistant Manager,"₹ 14,81,426"
+763,"Star TV Network
+3.8",Senior Manager,"₹ 25,57,415"
+764,"Star TV Network
+3.8",Manager,"₹ 18,22,704"
+765,"Star TV Network
+3.8",Intern,"₹ 11,503/mo"
+766,"Star TV Network
+3.8",Senior Executive,"₹ 11,13,527"
+767,"CoStrategix Technologies
+3.5",Software Analyst,"₹ 7,56,873"
+768,"CoStrategix Technologies
+3.5",Software Analyst,"₹ 51,286/mo"
+769,"CoStrategix Technologies
+3.5",Software Engineer,₹34K - ₹626K
+770,"CoStrategix Technologies
+3.5",Software Engineer,₹24K - ₹58K
+771,"CoStrategix Technologies
+3.5",Senior Software Engineer,"₹1,113K - ₹1,234K"
+772,RedLotus,-1,-1
+773,Shree Consultancy Services,-1,-1
+774,Fitfyles,-1,-1
+775,"SILICON TECHLAB
+3.2",Software Engineer,₹35K - ₹37K
+776,"SILICON TECHLAB
+3.2",Senior Software Engineer,₹522K - ₹557K
+777,"SILICON TECHLAB
+3.2",Senior Project Manager,₹67K - ₹73K
+778,"SILICON TECHLAB
+3.2",Assistant Systems Administrator,₹283K - ₹308K
+779,"6sense
+4.9",-1,-1
+780,"Swiss Re
+3.8",Senior Data Analyst,₹674K - ₹721K
+781,"Swiss Re
+3.8",Assistant Vice President,"₹ 22,73,937"
+782,"Swiss Re
+3.8",Technical Accountant,"₹ 5,77,316"
+783,"Swiss Re
+3.8",Senior Actuarial Analyst,"₹ 13,25,054"
+784,"Swiss Re
+3.8",Associate,"₹ 5,28,349"
+785,"Ganit
+3.0",Data Analyst,₹378K - ₹409K
+786,"Nuware Systems
+3.6",Software Engineer,"₹ 4,86,067"
+787,"Nuware Systems
+3.6",Software Engineer,"₹ 59,275/mo"
+788,"Nuware Systems
+3.6",Senior Software Engineer,"₹886K - ₹1,132K"
+789,"Nuware Systems
+3.6",Senior Software Engineer,₹45K - ₹48K
+790,"Nuware Systems
+3.6",Executive,₹95K - ₹102K
+791,"KhataBook
+4.5",Team Leader,₹15K - ₹17K
+792,"KhataBook
+4.5",Digital Marketing Manager,₹774K - ₹833K
+793,"Twilio
+3.9",-1,-1
+794,Cytiva,-1,-1
+795,"Zynga
+4.0",Software Engineer,"₹ 15,47,632"
+796,"Zynga
+4.0",Senior Software Engineer,"₹ 20,62,483"
+797,"Zynga
+4.0",Associate Software Engineer,"₹ 10,53,776"
+798,"Zynga
+4.0",Product Manager,"₹ 29,24,514"
+799,"Zynga
+4.0",Game Designer,"₹ 13,09,195"
+800,DSS Sustainable Solutions,-1,-1
+801,"IQLECT
+3.8",Data Scientist,₹10K - ₹11K
+802,"IQLECT
+3.8",Applications Developer,₹498K - ₹768K
+803,"IQLECT
+3.8",Software Engineer,₹647K - ₹706K
+804,"IQLECT
+3.8",Sales Manager,"₹2,375K - ₹2,576K"
+805,"IQLECT
+3.8",QA Engineer,₹19K - ₹20K
+806,"Pattern Effects Labs
+3.5",IT Analyst,₹129K - ₹138K
+807,Tenzai,-1,-1
+808,"Dasceq
+2.0",-1,-1
+809,"Microsoft
+4.3",Software Development Engineer,"₹ 14,19,137"
+810,"Microsoft
+4.3",Software Engineer,"₹ 14,03,767"
+811,"Microsoft
+4.3",Associate Consultant,"₹ 9,98,000"
+812,"Microsoft
+4.3",Intern,"₹ 44,827/mo"
+813,"Microsoft
+4.3",Consultant,"₹ 18,56,175"
+814,Wade Maritime Consultants Private Limited,-1,-1
+815,spineor webservices Pvt Ltd Mohali,-1,-1
+816,WeRecruit Talent,-1,-1
+817,"PayPal
+3.6",Software Engineer,"₹ 12,37,149"
+818,"PayPal
+3.6",Software Engineer III,"₹ 21,51,802"
+819,"PayPal
+3.6",Software Engineer II,"₹ 16,13,973"
+820,"PayPal
+3.6",Senior Software Engineer,"₹ 18,00,000"
+821,"PayPal
+3.6",Software Engineer -2,"₹ 16,37,235"
+822,"Pinnacle Digital Analytics
+2.5",Human Resources,₹5K - ₹6K
+823,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+824,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+825,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+826,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+827,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+828,"h2o.ai
+4.1",-1,-1
+829,Benchire,-1,-1
+830,"PayPal
+3.6",Software Engineer,"₹ 12,37,149"
+831,"PayPal
+3.6",Software Engineer III,"₹ 21,51,802"
+832,"PayPal
+3.6",Software Engineer II,"₹ 16,13,973"
+833,"PayPal
+3.6",Senior Software Engineer,"₹ 18,00,000"
+834,"PayPal
+3.6",Software Engineer -2,"₹ 16,37,235"
+835,"Micro Focus
+3.2",Software Engineer,"₹ 8,86,789"
+836,"Micro Focus
+3.2",Senior Software Engineer,"₹ 10,74,037"
+837,"Micro Focus
+3.2",Associate Software Engineer,"₹ 8,03,666"
+838,"Micro Focus
+3.2",Member Of Technical Staff,"₹ 13,99,491"
+839,"Micro Focus
+3.2",Technology Consultant,"₹ 8,26,185"
+840,Jubna,-1,-1
+841,"Nokia
+4.1",RF DATA OPTIMIZATION ENGINEER,₹546K - ₹590K
+842,"Nokia
+4.1",R&D Engineer,"₹ 9,32,478"
+843,"Nokia
+4.1",Senior Software Engineer,"₹ 12,58,393"
+844,"Nokia
+4.1",Software Engineer,"₹ 9,09,575"
+845,"Nokia
+4.1",Technical Lead,"₹ 13,08,744"
+846,JMA Global IT Solutions SDN BHD,-1,-1
+847,"Twilio
+3.9",-1,-1
+848,"TaskUs
+4.5",Team Lead,₹29K - ₹31K
+849,"TaskUs
+4.5",General Manager,₹21K - ₹23K
+850,"TaskUs
+4.5",Quality Analyst,₹21K - ₹23K
+851,"TaskUs
+4.5",Human Resources Generalist,₹47K - ₹51K
+852,"TaskUs
+4.5",Team Member,₹16K - ₹18K
+853,Cerentral Consultants,-1,-1
+854,"Tredence
+3.5",Business Analyst,"₹ 6,73,211"
+855,"Tredence
+3.5",Senior Business Analyst,"₹ 9,49,943"
+856,"Tredence
+3.5",Business Analyst,"₹ 47,331/mo"
+857,"Tredence
+3.5",Software Engineer,"₹ 6,99,746"
+858,"Tredence
+3.5",Associate Manager,"₹ 12,24,879"
+859,SearchUrCollege,-1,-1
+860,"Guidewire Software
+4.1",-1,-1
+861,"PayPal
+3.6",Data Engineer,"₹1,342K - ₹1,463K"
+862,"PayPal
+3.6",Software Engineer,"₹ 12,37,149"
+863,"PayPal
+3.6",Software Engineer III,"₹ 21,51,802"
+864,"PayPal
+3.6",Software Engineer II,"₹ 16,13,973"
+865,"PayPal
+3.6",Senior Software Engineer,"₹ 18,00,000"
+866,"IntelliPredikt Technologies
+5.0",-1,-1
+867,"AMBC
+4.3",Software Engineer,₹748K - ₹806K
+868,"AMBC
+4.3",Scrum Master,"₹1,118K - ₹1,197K"
+869,"AMBC
+4.3",SAP Basis Administrator,"₹1,543K - ₹1,679K"
+870,"AMBC
+4.3",Junior Infrastructure Engineer,₹164K - ₹179K
+871,"AMBC
+4.3",Junior Network Administrative,₹207K - ₹227K
+872,"CIIE.CO
+3.5",Intern,"₹ 8,527/mo"
+873,"CIIE.CO
+3.5",Manager,₹45K - ₹57K
+874,"CIIE.CO
+3.5",Associate,₹580K - ₹622K
+875,"CIIE.CO
+3.5",Associate,₹26K - ₹28K
+876,"CIIE.CO
+3.5",Analyst,₹25K - ₹27K
+877,"SpringML
+4.4",Data Analyst,"₹1,476K - ₹1,605K"
+878,"SpringML
+4.4",Data Scientist,"₹996K - ₹1,090K"
+879,"SpringML
+4.4",Associate Data Scientist,₹910K - ₹980K
+880,"SpringML
+4.4",Machine Learning Data Associate,₹637K - ₹692K
+881,Amazon Dev Center India - Hyd,-1,-1
+882,Amazon Dev Center India - Hyd,-1,-1
+883,"Han Digital Solution
+3.6",Consultant,"₹ 3,76,786"
+884,"Han Digital Solution
+3.6",Senior Recruiter,"₹ 1,77,628/mo"
+885,"Han Digital Solution
+3.6",Engagement Lead,₹630K - ₹967K
+886,"Han Digital Solution
+3.6",Senior Consultant,₹63K - ₹68K
+887,"Han Digital Solution
+3.6",Senior Consultant,₹415K - ₹451K
+888,"Lybrate
+3.5",Software Engineer,"₹ 14,42,962"
+889,"Lybrate
+3.5",Intern,"₹ 10,645/mo"
+890,"Lybrate
+3.5",Inside Sales Specialist,"₹ 11,22,203"
+891,"Lybrate
+3.5",Java Developer,"₹600K - ₹3,634K"
+892,"Lybrate
+3.5",Product Manager,"₹1,787K - ₹4,857K"
+893,"Vision Insight
+5.0",-1,-1
+894,"IBM
+3.9",Associate Systems Engineer,"₹ 3,98,317"
+895,"IBM
+3.9",Applications Developer,"₹ 4,72,553"
+896,"IBM
+3.9",Software Engineer,"₹ 7,01,040"
+897,"IBM
+3.9",Systems Engineer,"₹ 4,81,838"
+898,"IBM
+3.9",Senior Software Engineer,"₹ 9,81,928"
+899,"Verzeo Edutech Private Limited
+3.8",Business Development Executive,₹19K - ₹21K
+900,"Verzeo Edutech Private Limited
+3.8",BDA,₹21K - ₹22K
+901,AGUILASS,-1,-1
+902,"VSH SOLUTIONS
+4.4",Senior Web Developer,₹334K - ₹586K
+903,"Cisco Systems
+4.3",Data Engineer,"₹1,073K - ₹1,781K"
+904,"Cisco Systems
+4.3",Software Engineer,"₹ 11,60,614"
+905,"Cisco Systems
+4.3",Software Engineer II,"₹ 12,66,002"
+906,"Cisco Systems
+4.3",Senior Software Engineer,"₹ 15,69,801"
+907,"Cisco Systems
+4.3",Software Engineer III,"₹ 19,14,137"
+908,"Novartis
+3.9",Senior Analyst,"₹ 12,28,617"
+909,"Novartis
+3.9",Manager,"₹ 19,40,758"
+910,"Novartis
+3.9",Analyst,"₹ 8,77,168"
+911,"Novartis
+3.9",Business Analyst,"₹ 7,69,557"
+912,"Novartis
+3.9",Associate Analyst,"₹ 7,22,757"
+913,"Genpact
+3.6",Business Analyst,"₹ 6,61,300"
+914,"Genpact
+3.6",Business Analyst,"₹ 41,227/mo"
+915,"Genpact
+3.6",Senior Business Analyst,"₹ 7,61,946"
+916,"Genpact
+3.6",Business Analyst I,"₹ 4,87,371"
+917,"Genpact
+3.6",Senior Business Analyst,"₹ 40,943/mo"
+918,"Insigno Quipment Technologies
+2.5",Software Engineer,"₹ 6,02,297"
+919,"Insigno Quipment Technologies
+2.5",Software Engineer,₹15K - ₹34K
+920,"Insigno Quipment Technologies
+2.5",Senior Software Engineer,₹707K - ₹863K
+921,"Insigno Quipment Technologies
+2.5",Technical Lead,₹60K - ₹64K
+922,"Insigno Quipment Technologies
+2.5",QA Engineer,₹284K - ₹306K
+923,"Involvio
+3.9",Web Developer,"₹1,931K - ₹2,073K"
+924,"Involvio
+3.9",Technical Support Engineer,₹570K - ₹615K
+925,"Involvio
+3.9",QA Engineer,₹51K - ₹56K
+926,"Proziod
+4.8",Data Analyst,"₹ 19,941/mo"
+927,"Proziod
+4.8",Software Engineer,₹518K - ₹558K
+928,"Proziod
+4.8",Senior Software Engineer,₹349K - ₹383K
+929,"Sage IT India
+3.3",Business Development Manager,₹56K - ₹61K
+930,"Sage IT India
+3.3",Digital Marketing Executive,₹13K - ₹14K
+931,"Sage IT India
+3.3",Senior Technical Recruiter,₹24K - ₹26K
+932,"Sage IT India
+3.3",Human Resources Recruiter,₹10K - ₹11K
+933,"Sage IT India
+3.3",Tibco Developer,₹29K - ₹31K
+934,"Freshworks
+4.3",Product Developer,"₹ 7,90,332"
+935,"Freshworks
+4.3",Senior Software Engineer,"₹ 14,50,000"
+936,"Freshworks
+4.3",Software Engineer,"₹ 7,71,998"
+937,"Freshworks
+4.3",Product Manager,"₹ 28,78,542"
+938,"Freshworks
+4.3",Business Development Executive,"₹ 6,60,983"
+939,Able Jobs,-1,-1
+940,Hookfish,-1,-1
+941,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+942,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+943,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+944,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+945,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+946,"ADmyBRAND
+3.6",Web Developer,"₹ 52,775/mo"
+947,"ADmyBRAND
+3.6",Marketing Associate,₹17K - ₹18K
+948,"ADmyBRAND
+3.6",Business Analyst,₹115K - ₹126K
+949,"ADmyBRAND
+3.6",Intern,₹11K - ₹12K
+950,"ADmyBRAND
+3.6",IPC,₹92K - ₹99K
+951,"dunnhumby
+3.6",Applied Data Scientist,"₹ 11,24,138"
+952,"dunnhumby
+3.6",Senior Applied Data Scientist,"₹ 11,46,589"
+953,"dunnhumby
+3.6",Lead Applied Data Scientist,"₹ 10,40,605"
+954,"dunnhumby
+3.6",Associate Applied Data Scientist,"₹ 8,55,375"
+955,"dunnhumby
+3.6",Senior Applied Data Scientist,₹94K - ₹101K
+956,"AXA Business Services
+3.4",Assistant Manager,"₹ 11,78,314"
+957,"AXA Business Services
+3.4",Specialist,"₹ 5,58,873"
+958,"AXA Business Services
+3.4",Process Lead,"₹ 7,89,166"
+959,"AXA Business Services
+3.4",Specialist,"₹ 34,772/mo"
+960,"AXA Business Services
+3.4",Associate,"₹ 18,621/mo"
+961,"NICE
+3.7",Tech Lead,"₹ 10,08,865"
+962,"NICE
+3.7",Software Engineer,"₹ 9,35,845"
+963,"NICE
+3.7",Associate Software Engineer,"₹ 5,73,623"
+964,"NICE
+3.7",Tech Lead Software Engineer,"₹ 12,86,786"
+965,"NICE
+3.7",Associate Software Engineer,"₹ 39,956/mo"
+966,Tekumani Agri Assest Private Ltd,-1,-1
+967,Saffron Consultancy Services,-1,-1
+968,"Web Synergies
+3.5",Software Engineer,₹32K - ₹34K
+969,"Web Synergies
+3.5",Software Developer,₹9K - ₹10K
+970,"Web Synergies
+3.5",Programmer Analyst,₹189K - ₹205K
+971,"Web Synergies
+3.5",Programmer Analyst,₹32K - ₹34K
+972,"Web Synergies
+3.5",Assistant Project Manager,₹109K - ₹116K
+973,"Parexel
+3.8",Clinical Data Analyst II,₹887K - ₹962K
+974,"Parexel
+3.8",Drug Safety Associate,"₹ 5,04,554"
+975,"Parexel
+3.8",Senior Software Engineer,"₹ 14,64,484"
+976,"Parexel
+3.8",Regulatory Affairs Associate,"₹ 5,63,995"
+977,"Parexel
+3.8",Pharmacovigilance Scientist,"₹ 5,19,289"
+978,SnapHunt Pte Ltd,-1,-1
+979,"Paisool
+5.0",Intern,₹20K - ₹21K
+980,"Amazon
+4.2",Data Analyst,"₹ 5,52,462"
+981,"Amazon
+4.2",Data Analyst,₹27K - ₹29K
+982,"Amazon
+4.2",Senior Data Analyst,₹416K - ₹665K
+983,"Amazon
+4.2",Cs Data Analyst,₹326K - ₹353K
+984,"Amazon
+4.2",Business Data Analyst,₹479K - ₹511K
+985,"Dasceq
+2.0",-1,-1
+986,"Shell
+4.0",Business Analyst,"₹ 18,57,531"
+987,"Shell
+4.0",Intern,"₹ 24,698/mo"
+988,"Shell
+4.0",Software Engineer,"₹ 10,79,837"
+989,"Shell
+4.0",Specialist,"₹ 11,68,400"
+990,"Shell
+4.0",Process Engineer,"₹ 28,42,421"
+991,"Tredence
+3.5",Business Analyst,"₹ 6,73,211"
+992,"Tredence
+3.5",Senior Business Analyst,"₹ 9,49,943"
+993,"Tredence
+3.5",Business Analyst,"₹ 47,331/mo"
+994,"Tredence
+3.5",Software Engineer,"₹ 6,99,746"
+995,"Tredence
+3.5",Associate Manager,"₹ 12,24,879"
+996,"Morgan Stanley
+3.8",Data Engineer,₹854K - ₹935K
+997,"Morgan Stanley
+3.8",Manager,"₹ 18,06,203"
+998,"Morgan Stanley
+3.8",Senior Associate,"₹ 15,41,019"
+999,"Morgan Stanley
+3.8",Senior Manager,"₹ 24,54,819"
+1000,"Morgan Stanley
+3.8",Associate,"₹ 8,10,090"
+1001,"Springboard
+4.5",Software Developer,₹16K - ₹25K
+1002,"Springboard
+4.5",Software Engineer,"₹1,501K - ₹1,637K"
+1003,"Springboard
+4.5",Software Developer,"₹1,622K - ₹1,744K"
+1004,"Springboard
+4.5",UI Developer,"₹1,343K - ₹1,447K"
+1005,"Springboard
+4.5",Front End Developer,"₹1,129K - ₹1,240K"
+1006,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1007,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1008,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1009,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1010,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1011,Futurious Technologies,-1,-1
+1012,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1013,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1014,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1015,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1016,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1017,Jidoka Technologies,-1,-1
+1018,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1019,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1020,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1021,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1022,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+1023,big tree,-1,-1
+1024,"upGrad Education Private Limited
+3.5",Academic Associate,"₹575K - ₹1,071K"
+1025,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1026,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1027,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1028,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1029,"Tata Insights and Quants
+4.0",Systems Engineer,"₹ 5,08,660"
+1030,"Tata Insights and Quants
+4.0",Software Engineer,"₹ 4,65,134"
+1031,"Tata Insights and Quants
+4.0",Manager,"₹ 9,97,928"
+1032,"Tata Insights and Quants
+4.0",Mechanical Engineer,"₹ 24,669/mo"
+1033,"Tata Insights and Quants
+4.0",Systems Engineer,"₹ 34,763/mo"
+1034,"TATA Capital
+3.4",Senior Manager,"₹ 16,46,525"
+1035,"TATA Capital
+3.4",Manager,"₹ 11,39,468"
+1036,"TATA Capital
+3.4",Relationship Manager,"₹ 8,41,652"
+1037,"TATA Capital
+3.4",Assistant Manager,"₹ 5,34,817"
+1038,"TATA Capital
+3.4",Summer,"₹ 23,396/mo"
+1039,"VMware
+4.3",Member Of Technical Staff,"₹ 14,62,663"
+1040,"VMware
+4.3",Senior Member Of Technical Staff,"₹ 28,38,273"
+1041,"VMware
+4.3",Technical Support Engineer,"₹ 9,33,517"
+1042,"VMware
+4.3",Intern,"₹ 32,158/mo"
+1043,"VMware
+4.3",Business Analyst,"₹ 8,94,100"
+1044,"altbalaji
+2.7",Marketing Executive,₹24K - ₹26K
+1045,"Blackstraw
+4.6",Data Scientist,"₹1,445K - ₹1,562K"
+1046,"Blackstraw
+4.6",Python Developer,₹29K - ₹32K
+1047,"Blackstraw
+4.6",QA Automation Engineer,₹25K - ₹27K
+1048,"Blackstraw
+4.6",Commercial Truck Driver,"₹2,643K - ₹2,840K"
+1049,"Blackstraw
+4.6",Senior Artificial Intelligence Engineer,"₹1,010K - ₹1,091K"
+1050,"Ingredion
+3.6",-1,-1
+1051,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1052,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1053,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1054,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1055,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1056,"Indium Software
+4.0",Test Engineer,"₹ 3,55,153"
+1057,"Indium Software
+4.0",Test Engineer,"₹ 20,894/mo"
+1058,"Indium Software
+4.0",Software Test Engineer,"₹ 2,89,788"
+1059,"Indium Software
+4.0",Software Test Engineer,"₹ 30,000/mo"
+1060,"Indium Software
+4.0",Senior Test Engineer,"₹ 6,58,610"
+1061,"Novartis
+3.9",Senior Analyst,"₹ 12,28,617"
+1062,"Novartis
+3.9",Manager,"₹ 19,40,758"
+1063,"Novartis
+3.9",Analyst,"₹ 8,77,168"
+1064,"Novartis
+3.9",Business Analyst,"₹ 7,69,557"
+1065,"Novartis
+3.9",Associate Analyst,"₹ 7,22,757"
+1066,"Autodesk
+4.0",Senior Software Engineer,"₹ 16,55,858"
+1067,"Autodesk
+4.0",Intern,"₹ 28,190/mo"
+1068,"Autodesk
+4.0",Software Development,"₹ 24,830/mo"
+1069,"Autodesk
+4.0",Software Engineer,"₹115K - ₹1,266K"
+1070,"Autodesk
+4.0",Software Developer,"₹1,244K - ₹1,624K"
+1071,NOVIQUE HEALTH,-1,-1
+1072,"Clustr
+4.5",Software Engineer,"₹ 1,07,613/mo"
+1073,"Clustr
+4.5",Software Engineer,₹54K - ₹58K
+1074,"Clustr
+4.5",Manager,"₹1,128K - ₹1,221K"
+1075,"Clustr
+4.5",Senior Staff Software Engineer,₹382K - ₹411K
+1076,"Clustr
+4.5",SDEII,"₹1,341K - ₹1,436K"
+1077,"Honeywell
+3.8",Senior Engineer,"₹ 10,28,686"
+1078,"Honeywell
+3.8",Tech Lead,"₹ 16,14,797"
+1079,"Honeywell
+3.8",Senior Software Engineer,"₹ 10,53,776"
+1080,"Honeywell
+3.8",Engineer,"₹ 6,68,415"
+1081,"Honeywell
+3.8",Software Engineer,"₹ 6,95,749"
+1082,"Aktana
+4.8",-1,-1
+1083,Staffio HR,-1,-1
+1084,"Exela Technologies
+2.6",Software Engineer,"₹ 5,07,894"
+1085,"Exela Technologies
+2.6",Software Engineer,₹38K - ₹42K
+1086,"Exela Technologies
+2.6",Business Analyst,₹34K - ₹37K
+1087,"Exela Technologies
+2.6",Programmer Analyst,₹156K - ₹167K
+1088,"Exela Technologies
+2.6",Senior Manager,₹23K - ₹26K
+1089,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1090,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1091,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1092,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1093,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+1094,"Whatfix
+4.2",Customer Success Manager,"₹ 15,57,866"
+1095,"Whatfix
+4.2",Senior Software Engineer,"₹1,963K - ₹2,114K"
+1096,"Whatfix
+4.2",Account Manager,"₹1,144K - ₹1,232K"
+1097,"Whatfix
+4.2",Marketing Manager,"₹2,076K - ₹2,255K"
+1098,"Whatfix
+4.2",Associate Director,"₹2,390K - ₹2,607K"
+1099,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1100,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1101,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1102,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1103,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1104,"CoinDCX
+4.4",Consulting Engineer.,₹31K - ₹34K
+1105,"CoinDCX
+4.4",Consulting Engineer.,"₹1,029K - ₹1,127K"
+1106,"CoinDCX
+4.4",Community Journalist,₹47K - ₹51K
+1107,"CoinDCX
+4.4",Aircraft Maintenance Engineer,₹30K - ₹33K
+1108,"Connect Infosoft Technologies
+3.0",Digital Marketing Manager,₹241K - ₹260K
+1109,"Agnik
+4.8",-1,-1
+1110,lemark institute of art,-1,-1
+1111,"Numerator
+4.0",Team Lead,₹267K - ₹291K
+1112,"Numerator
+4.0",Account Executive,₹29K - ₹31K
+1113,"Numerator
+4.0",Sr. Software Engineer,₹566K - ₹617K
+1114,"Numerator
+4.0",Senior Research Analyst,₹553K - ₹602K
+1115,"Numerator
+4.0",Content Analyst,₹196K - ₹213K
+1116,"AstraZeneca
+3.9",Consultant,"₹ 9,20,719"
+1117,"AstraZeneca
+3.9",Software Engineer,"₹ 6,72,739"
+1118,"AstraZeneca
+3.9",Senior Consultant,"₹ 11,50,367"
+1119,"AstraZeneca
+3.9",Senior Software Engineer,"₹ 10,06,385"
+1120,"AstraZeneca
+3.9",Engineer,"₹ 7,11,299"
+1121,"VMware
+4.3",Member Of Technical Staff,"₹ 14,62,663"
+1122,"VMware
+4.3",Senior Member Of Technical Staff,"₹ 28,38,273"
+1123,"VMware
+4.3",Technical Support Engineer,"₹ 9,33,517"
+1124,"VMware
+4.3",Intern,"₹ 32,158/mo"
+1125,"VMware
+4.3",Business Analyst,"₹ 8,94,100"
+1126,"Analytics Quotient
+3.7",Business Analyst,"₹ 5,89,071"
+1127,"Analytics Quotient
+3.7",Software Engineer,"₹ 6,20,975"
+1128,"Analytics Quotient
+3.7",Senior Business Analyst,"₹ 8,38,908"
+1129,"Analytics Quotient
+3.7",Associate Domain Consultant,"₹ 12,46,092"
+1130,"Analytics Quotient
+3.7",Domain Consultant,"₹ 16,64,712"
+1131,"3d-ip semiconductors
+4.0",Verification Engineer,₹21K - ₹23K
+1132,"6sense
+4.9",-1,-1
+1133,"IBM
+3.9",Associate Systems Engineer,"₹ 3,98,317"
+1134,"IBM
+3.9",Applications Developer,"₹ 4,72,553"
+1135,"IBM
+3.9",Software Engineer,"₹ 7,01,040"
+1136,"IBM
+3.9",Systems Engineer,"₹ 4,81,838"
+1137,"IBM
+3.9",Senior Software Engineer,"₹ 9,81,928"
+1138,"Tredence
+3.5",Business Analyst,"₹ 6,73,211"
+1139,"Tredence
+3.5",Senior Business Analyst,"₹ 9,49,943"
+1140,"Tredence
+3.5",Business Analyst,"₹ 47,331/mo"
+1141,"Tredence
+3.5",Software Engineer,"₹ 6,99,746"
+1142,"Tredence
+3.5",Associate Manager,"₹ 12,24,879"
+1143,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1144,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1145,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1146,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1147,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+1148,"Novartis
+3.9",Senior Analyst,"₹ 12,28,617"
+1149,"Novartis
+3.9",Manager,"₹ 19,40,758"
+1150,"Novartis
+3.9",Analyst,"₹ 8,77,168"
+1151,"Novartis
+3.9",Business Analyst,"₹ 7,69,557"
+1152,"Novartis
+3.9",Associate Analyst,"₹ 7,22,757"
+1153,"Finaxar
+3.2",Manager,"₹960K - ₹1,048K"
+1154,"Finaxar
+3.2",Software Engineer Trainee,₹21K - ₹22K
+1155,"Finaxar
+3.2",Commercial Loan Consultant,₹25K - ₹27K
+1156,"EY
+3.8",Consultant,"₹ 10,38,699"
+1157,"EY
+3.8",Senior Consultant,"₹ 14,66,987"
+1158,"EY
+3.8",Analyst,"₹ 4,57,526"
+1159,"EY
+3.8",Manager,"₹ 22,48,483"
+1160,"EY
+3.8",Associate Consultant,"₹ 7,23,093"
+1161,"TBO Group
+4.1",Executive,₹289K - ₹313K
+1162,"TBO Group
+4.1",Operations Executive,₹20K - ₹22K
+1163,"TBO Group
+4.1",Senior Software Quality Assurance Analyst,₹787K - ₹853K
+1164,"Bloom Consulting Services
+4.8",-1,-1
+1165,"PK
+3.6",Senior Software Engineer,"₹ 9,33,456"
+1166,"PK
+3.6",Software Engineer,"₹ 6,35,813"
+1167,"PK
+3.6",Technical Lead,"₹ 13,09,933"
+1168,"PK
+3.6",Associate Technical Lead,"₹ 10,95,029"
+1169,"PK
+3.6",Senior Software Engineer,"₹ 79,033/mo"
+1170,QuotesNStories,-1,-1
+1171,"PayPal
+3.6",Software Engineer,"₹ 12,23,633"
+1172,"PayPal
+3.6",Software Engineer III,"₹ 21,51,802"
+1173,"PayPal
+3.6",Software Engineer II,"₹ 16,13,973"
+1174,"PayPal
+3.6",Senior Software Engineer,"₹ 18,00,000"
+1175,"PayPal
+3.6",Software Engineer -2,"₹ 16,64,598"
+1176,ADCI HYD 13 SEZ,-1,-1
+1177,"TATA Capital
+3.4",Senior Manager,"₹ 16,46,525"
+1178,"TATA Capital
+3.4",Manager,"₹ 11,39,468"
+1179,"TATA Capital
+3.4",Relationship Manager,"₹ 8,41,652"
+1180,"TATA Capital
+3.4",Assistant Manager,"₹ 5,34,817"
+1181,"TATA Capital
+3.4",Summer,"₹ 23,396/mo"
+1182,"ServiceNow
+3.7",Software Engineer,"₹ 15,48,368"
+1183,"ServiceNow
+3.7",Senior Software Engineer,"₹ 21,10,932"
+1184,"ServiceNow
+3.7",Associate Applications Developer,"₹ 10,84,135"
+1185,"ServiceNow
+3.7",Associate Software Engineer,"₹ 11,00,291"
+1186,"ServiceNow
+3.7",Senior Applications Developer,"₹ 20,74,455"
+1187,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1188,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1189,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1190,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1191,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1192,Mystro,-1,-1
+1193,"Profectus
+4.9",Software Engineer,₹500K - ₹823K
+1194,"Profectus
+4.9",Software Developer,₹35K - ₹38K
+1195,"Profectus
+4.9",Devops Engineer,₹408K - ₹446K
+1196,"BrandIdea Consultancy P Ltd
+2.5",Data Scientist,₹622K - ₹672K
+1197,"BrandIdea Consultancy P Ltd
+2.5",Software Engineer,"₹ 28,226/mo"
+1198,"BrandIdea Consultancy P Ltd
+2.5",Software Developer,₹328K - ₹502K
+1199,"BrandIdea Consultancy P Ltd
+2.5",Senior Software Engineer,₹35K - ₹39K
+1200,"BrandIdea Consultancy P Ltd
+2.5",Software Developer,₹24K - ₹26K
+1201,"Pitney Bowes
+3.3",Senior Advisory Software Engineer,"₹ 25,32,158"
+1202,"Pitney Bowes
+3.3",Advisory Software Engineer,"₹ 18,13,660"
+1203,"Pitney Bowes
+3.3",Senior Software Engineer,"₹ 12,44,999"
+1204,"Pitney Bowes
+3.3",Software Engineer,"₹ 9,40,283"
+1205,"Pitney Bowes
+3.3",Intern,"₹ 29,914/mo"
+1206,"Kpro Solutions
+4.0",Consulting Hardware Engineer,₹66K - ₹72K
+1207,"Cognizant
+3.7",Data Analyst,"₹ 5,38,266"
+1208,"Cognizant
+3.7",Data Analyst,"₹ 31,613/mo"
+1209,"Cognizant
+3.7",Junior Data Analyst,"₹ 4,24,242"
+1210,"Cognizant
+3.7",Senior Process Data Analyst,"₹ 40,631/mo"
+1211,"Cognizant
+3.7",Junior Data Analyst,"₹ 27,498/mo"
+1212,"Silicon Labs
+4.5",-1,-1
+1213,"fundinfo AG
+3.6",Consulting Librarian,"₹3,073K - ₹3,358K"
+1214,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1215,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1216,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1217,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1218,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+1219,"Deutsche Bank
+3.5",Associate,"₹ 16,49,639"
+1220,"Deutsche Bank
+3.5",Analyst,"₹ 10,36,351"
+1221,"Deutsche Bank
+3.5",Senior Analyst,"₹ 12,76,864"
+1222,"Deutsche Bank
+3.5",Assistant Vice President,"₹ 26,33,251"
+1223,"Deutsche Bank
+3.5",Financial Analyst,"₹ 5,13,057"
+1224,"ECS
+3.0",-1,-1
+1225,"Frost and Sullivan, Inc.
+3.1",Senior Research Analyst,"₹ 8,96,986"
+1226,"Frost and Sullivan, Inc.
+3.1",Research Analyst,"₹ 6,44,848"
+1227,"Frost and Sullivan, Inc.
+3.1",Research Associate,"₹ 5,14,343"
+1228,"Frost and Sullivan, Inc.
+3.1",Industry Analyst,"₹ 11,13,527"
+1229,"Frost and Sullivan, Inc.
+3.1",Analyst,"₹ 6,55,263"
+1230,"IHS Markit
+3.5",Associate Software Engineer II,"₹ 14,56,580"
+1231,"IHS Markit
+3.5",Assistant Vice President,"₹ 12,80,775"
+1232,"IHS Markit
+3.5",Associate,"₹ 6,72,638"
+1233,"IHS Markit
+3.5",Software Engineer,"₹ 7,91,836"
+1234,"IHS Markit
+3.5",Vice President,"₹ 22,24,243"
+1235,"GI Group Holdings
+3.0",-1,-1
+1236,Juno Terra,-1,-1
+1237,"Amazon
+4.2",Data Engineer I,"₹1,117K - ₹2,556K"
+1238,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1239,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1240,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1241,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1242,"TTEC
+3.4",Customer Service Representative,"₹ 24,171/mo"
+1243,"TTEC
+3.4",Fraud Analyst,₹19K - ₹24K
+1244,"TTEC
+3.4",Click To Chat Representative,₹24K - ₹26K
+1245,"TTEC
+3.4",Fraud Prevention Analyst,₹27K - ₹29K
+1246,"TTEC
+3.4",Chat Associate,₹24K - ₹26K
+1247,CrossML,-1,-1
+1248,"Apple
+4.7",Data Entry Analyst,₹116K - ₹125K
+1249,"Apple
+4.7",Software Engineer,"₹ 7,85,542"
+1250,"Apple
+4.7",Customer Service Representative,"₹ 30,474/mo"
+1251,"Apple
+4.7",Sales Associate,"₹ 23,130/mo"
+1252,"Apple
+4.7",Retail Store Manager,"₹ 4,75,857"
+1253,"Cargill
+3.9",Senior Associate,"₹ 5,30,241"
+1254,"Cargill
+3.9",Process Specialist,"₹ 6,97,924"
+1255,"Cargill
+3.9",Management Trainee,₹373K - ₹847K
+1256,"Cargill
+3.9",Sales Executive,₹321K - ₹422K
+1257,"Cargill
+3.9",AREA SALES MANAGER,₹51K - ₹64K
+1258,"Lynkit
+5.0",Software Engineer,₹466K - ₹499K
+1259,"ARi
+3.3",Design Engineer,"₹ 4,25,043"
+1260,"ARi
+3.3",Software Engineer-II,₹518K - ₹907K
+1261,"ARi
+3.3",Engineer III,₹61K - ₹79K
+1262,"ARi
+3.3",Software Engineer,₹529K - ₹567K
+1263,"ARi
+3.3",Senior Software Engineer,"₹1,015K - ₹1,101K"
+1264,FLAGARANT SERVICES LLP,-1,-1
+1265,"Q-Dat IT Solutions
+5.0",Network And Computer Systems Administrator,₹11K - ₹12K
+1266,Krea University,-1,-1
+1267,"Bloom Consulting Services
+4.8",-1,-1
+1268,"Doubtnut
+3.7",Content Developer,₹16K - ₹19K
+1269,"Doubtnut
+3.7",Internship,₹19K - ₹20K
+1270,"Doubtnut
+3.7",Product Manager,"₹1,697K - ₹1,825K"
+1271,"Doubtnut
+3.7",Content Writer,₹19K - ₹21K
+1272,"Doubtnut
+3.7",Subject Matter Expert,₹19K - ₹21K
+1273,"UnitedHealth Group
+3.3",Software Engineer,"₹ 7,44,911"
+1274,"UnitedHealth Group
+3.3",Senior Software Engineer,"₹ 10,95,063"
+1275,"UnitedHealth Group
+3.3",Associate Software Engineer,"₹ 4,46,499"
+1276,"UnitedHealth Group
+3.3",Project Lead,"₹ 18,13,635"
+1277,"UnitedHealth Group
+3.3",Business Analyst,"₹ 9,21,032"
+1278,"iKomet Technology Solutions
+4.8",Web Developer,₹18K - ₹30K
+1279,"iKomet Technology Solutions
+4.8",Software Tester,₹29K - ₹31K
+1280,"iKomet Technology Solutions
+4.8",Senior Applications Developer,₹858K - ₹928K
+1281,"6sense
+4.9",-1,-1
+1282,"Kimberly-Clark
+3.9",Manager,₹165K - ₹179K
+1283,"Kimberly-Clark
+3.9",Associate,₹417K - ₹456K
+1284,"Kimberly-Clark
+3.9",Management Trainee,₹30K - ₹32K
+1285,"Kimberly-Clark
+3.9",Executive,₹12K - ₹13K
+1286,"Kimberly-Clark
+3.9",Sales Manager,₹804K - ₹867K
+1287,"eInvenSys
+5.0",Software Developer,₹24K - ₹26K
+1288,"Discover Dollar Technologies
+4.2",Financial Analyst,₹241K - ₹259K
+1289,"Discover Dollar Technologies
+4.2",Devops Engineer,₹411K - ₹451K
+1290,"Discover Dollar Technologies
+4.2",Devops Engineer,₹30K - ₹32K
+1291,"Ajira AI
+5.0",-1,-1
+1292,MNF – MyNextFilm,-1,-1
+1293,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1294,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1295,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1296,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1297,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1298,"Rudder Analytics
+4.7",Associate Analyst,"₹ 3,90,189"
+1299,"Rudder Analytics
+4.7",Analyst,"₹ 6,27,890"
+1300,"Rudder Analytics
+4.7",Intern,₹22K - ₹24K
+1301,"Rudder Analytics
+4.7",Developer,₹23K - ₹25K
+1302,"Rudder Analytics
+4.7",Associate Analyst,₹11K - ₹12K
+1303,"Nitor Infotech
+3.3",Software Engineer,"₹ 4,59,994"
+1304,"Nitor Infotech
+3.3",Senior Analyst,"₹ 7,82,987"
+1305,"Nitor Infotech
+3.3",Senior Analyst,"₹ 37,434/mo"
+1306,"Nitor Infotech
+3.3",Lead Engineer,"₹ 11,06,943"
+1307,"Nitor Infotech
+3.3",Software Engineer,"₹ 18,069/mo"
+1308,"AstraZeneca
+3.9",Consultant,"₹ 9,20,719"
+1309,"AstraZeneca
+3.9",Software Engineer,"₹ 6,72,739"
+1310,"AstraZeneca
+3.9",Senior Consultant,"₹ 11,50,367"
+1311,"AstraZeneca
+3.9",Senior Software Engineer,"₹ 10,06,385"
+1312,"AstraZeneca
+3.9",Engineer,"₹ 7,11,299"
+1313,"Cisco Systems
+4.3",Software Engineer,"₹ 11,60,614"
+1314,"Cisco Systems
+4.3",Software Engineer II,"₹ 12,66,002"
+1315,"Cisco Systems
+4.3",Senior Software Engineer,"₹ 15,69,801"
+1316,"Cisco Systems
+4.3",Software Engineer III,"₹ 19,14,137"
+1317,"Cisco Systems
+4.3",Software Engineer IV,"₹ 25,01,784"
+1318,"Analog Devices
+3.9",Design Engineer,"₹ 11,86,015"
+1319,"Analog Devices
+3.9",Intern,"₹ 28,891/mo"
+1320,"Analog Devices
+3.9",Senior Design Engineer,"₹ 24,11,876"
+1321,"Analog Devices
+3.9",Software Engineer,"₹ 11,78,313"
+1322,"Analog Devices
+3.9",Digital Design Engineer,"₹ 16,30,000"
+1323,"Credit Suisse
+3.8",ENO,"₹ 14,01,236"
+1324,"Credit Suisse
+3.8",Credit Suisse ENO,"₹ 12,05,960"
+1325,"Credit Suisse
+3.8",Assistant Vice President,"₹ 27,00,300"
+1326,"Credit Suisse
+3.8","ENO, Credit Suisse","₹ 12,00,317"
+1327,"Credit Suisse
+3.8",Exempt Non Officer,"₹ 11,65,598"
+1328,"Cisco Systems
+4.3",Software Engineer,"₹ 11,60,614"
+1329,"Cisco Systems
+4.3",Software Engineer II,"₹ 12,66,002"
+1330,"Cisco Systems
+4.3",Senior Software Engineer,"₹ 15,69,801"
+1331,"Cisco Systems
+4.3",Software Engineer III,"₹ 19,14,137"
+1332,"Cisco Systems
+4.3",Software Engineer IV,"₹ 25,01,784"
+1333,"ICS Consultancy Services
+4.2",IT Recruiter,₹197K - ₹211K
+1334,"ICS Consultancy Services
+4.2",Senior Recruiter,₹389K - ₹424K
+1335,"ICS Consultancy Services
+4.2",Director - Recruitment,"₹2,999K - ₹3,249K"
+1336,"Autodesk
+4.0",Senior Software Engineer,"₹ 16,55,858"
+1337,"Autodesk
+4.0",Intern,"₹ 28,190/mo"
+1338,"Autodesk
+4.0",Software Development,"₹ 24,830/mo"
+1339,"Autodesk
+4.0",Software Engineer,"₹115K - ₹1,266K"
+1340,"Autodesk
+4.0",Software Developer,"₹1,244K - ₹1,624K"
+1341,"upGrad Education Private Limited
+3.5",Admissions Counselor,"₹ 6,85,000"
+1342,"upGrad Education Private Limited
+3.5",Content Strategist,"₹ 14,05,379"
+1343,"upGrad Education Private Limited
+3.5",Intern,"₹ 39,277/mo"
+1344,"upGrad Education Private Limited
+3.5",Admission Counselor,"₹ 5,98,221"
+1345,"upGrad Education Private Limited
+3.5",Senior Admissions Counselor,"₹ 8,91,867"
+1346,"Happiest Minds Technologies
+4.1",Senior Software Engineer,"₹ 7,38,019"
+1347,"Happiest Minds Technologies
+4.1",Module Lead,"₹ 11,48,159"
+1348,"Happiest Minds Technologies
+4.1",Software Engineer,"₹ 4,21,510"
+1349,"Happiest Minds Technologies
+4.1",Technical Lead,"₹ 15,20,747"
+1350,"Happiest Minds Technologies
+4.1",Senior Software Engineer,"₹ 40,943/mo"
+1351,"Indium Software
+4.0",Test Engineer,"₹ 3,55,153"
+1352,"Indium Software
+4.0",Test Engineer,"₹ 20,894/mo"
+1353,"Indium Software
+4.0",Software Test Engineer,"₹ 2,89,788"
+1354,"Indium Software
+4.0",Software Test Engineer,"₹ 30,000/mo"
+1355,"Indium Software
+4.0",Senior Test Engineer,"₹ 6,58,610"
+1356,"TTEC
+3.4",Customer Service Representative,"₹ 24,171/mo"
+1357,"TTEC
+3.4",Fraud Analyst,₹19K - ₹24K
+1358,"TTEC
+3.4",Click To Chat Representative,₹24K - ₹26K
+1359,"TTEC
+3.4",Fraud Prevention Analyst,₹27K - ₹29K
+1360,"TTEC
+3.4",Chat Associate,₹24K - ₹26K
+1361,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1362,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1363,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1364,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1365,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+1366,"P360
+4.8",Senior Software Engineer,₹703K - ₹760K
+1367,"P360
+4.8",Senior Developer,"₹1,029K - ₹1,126K"
+1368,"P360
+4.8",Junior Software Developer,₹472K - ₹515K
+1369,"P360
+4.8",Senior Applications Developer,₹76K - ₹82K
+1370,"P360
+4.8",BI Developer,₹469K - ₹509K
+1371,"Amazon
+4.2",Software Development Engineer,"₹ 14,77,690"
+1372,"Amazon
+4.2",Software Development Engineer I,"₹ 15,51,897"
+1373,"Amazon
+4.2",Software Development Engineer,"₹ 44,187/mo"
+1374,"Amazon
+4.2",SDE1,"₹ 13,90,317"
+1375,"Amazon
+4.2",Customer Service Associate,"₹ 2,42,000"
+1376,Talent Arabia,-1,-1
+1377,"IHS Markit
+3.5",Assistant Vice President,"₹ 12,80,775"
+1378,"IHS Markit
+3.5",Associate,"₹ 6,72,638"
+1379,"IHS Markit
+3.5",Software Engineer,"₹ 7,91,836"
+1380,"IHS Markit
+3.5",Vice President,"₹ 22,24,243"
+1381,"IHS Markit
+3.5",Intern,"₹ 21,531/mo"
+1382,"Neustar
+3.7",Data Engineer,₹840K - ₹979K
+1383,"Neustar
+3.7",Senior Data Engineer,"₹1,217K - ₹1,330K"
+1384,"Neustar
+3.7",Software Engineer,"₹ 11,26,616"
+1385,"Neustar
+3.7",Senior Software Engineer,"₹1,448K - ₹1,711K"
+1386,"Neustar
+3.7",Senior Software Engineer,₹114K - ₹122K
+1387,"Fidelity Investments
+4.0",Software Engineer,"₹ 8,10,091"
+1388,"Fidelity Investments
+4.0",Senior Software Engineer,"₹ 13,40,438"
+1389,"Fidelity Investments
+4.0",Software Engineer/Developer,"₹ 9,35,282"
+1390,"Fidelity Investments
+4.0",Lead Software Engineer,"₹ 13,16,694"
+1391,"Fidelity Investments
+4.0",Project Manager,"₹ 27,30,405"
+1392,"ICMR- National Institute for Research in Tuberculosis
+3.4",Consultant,₹54K - ₹58K
+1393,"ICMR- National Institute for Research in Tuberculosis
+3.4",Research Assistant,₹25K - ₹27K
+1394,"ICMR- National Institute for Research in Tuberculosis
+3.4",Senior Research Fellow,₹26K - ₹28K
